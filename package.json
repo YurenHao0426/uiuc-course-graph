@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
-    "scrape": "node scripts/scrape.js 2025 fall"
+    "scrape": "node scripts/scrape.js 2025 fall",
+    "test": "echo \"(no tests yet)\""
   },
   "dependencies": {
     "cytoscape": "^3.28.0",

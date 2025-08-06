@@ -1,6 +1,9 @@
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs/promises";
 import path from "path";
+import dns from "node:dns";
+
+dns.setDefaultResultOrder("ipv4first");
 
 const [ , , YEAR = "2025", TERM = "fall" ] = process.argv;
 const parser = new XMLParser({ ignoreAttributes: false });

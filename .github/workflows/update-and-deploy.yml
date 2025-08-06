@@ -16,6 +16,8 @@ jobs:
           node-version: 18
       - run: npm ci
       - name: Scrape UIUC catalog
+        env:
+          NODE_OPTIONS: --dns-result-order=ipv4first
         run: npm run scrape
       - name: Commit data
         run: |
