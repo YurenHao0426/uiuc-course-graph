@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/uiuc-course-graph/course.schema.json",
+  "title": "UIUC Course",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "index": { "type": "string", "description": "Subject and number, e.g., 'CS 125'" },
+    "name": { "type": ["string", "null"], "description": "Course title/label" },
+    "description": { "type": ["string", "null"], "description": "Catalog description" },
+    "prerequisites": { "type": ["string", "null"], "description": "Free-text prerequisites as reported" }
+  },
+  "required": ["index"]
+}
+
+

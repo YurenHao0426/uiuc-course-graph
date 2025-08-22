@@ -1,0 +1,5879 @@
+[
+  {
+    "index": "AAS 290",
+    "name": "Individual Study",
+    "prerequisites": "AAS 100.",
+    "courses": [
+      "AAS 100"
+    ]
+  },
+  {
+    "index": "AAS 395",
+    "name": "Adv Asian Am Undergrad Reading",
+    "prerequisites": "AAS 100.",
+    "courses": [
+      "AAS 100"
+    ]
+  },
+  {
+    "index": "ABE 227",
+    "name": "Computer-Aided Problem-Solving for ABE I",
+    "prerequisites": "One of MATH 220, MATH 221, MATH 234.",
+    "courses": [
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ABE 228",
+    "name": "Computer-Aided Problem-Solving for ABE II",
+    "prerequisites": "One of MATH 220, MATH 221, MATH 234.",
+    "courses": [
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ABE 340",
+    "name": "Thermodynamics for Agricultural and Biological Engineering",
+    "prerequisites": "MATH 241.",
+    "courses": [
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "ABE 341",
+    "name": "Transport Processes in ABE",
+    "prerequisites": "ABE 227 and ABE 228.",
+    "courses": [
+      "ABE 227",
+      "ABE 228"
+    ]
+  },
+  {
+    "index": "ABE 361",
+    "name": "Functional Analysis and Design of Agricultural Machine Systems",
+    "prerequisites": "TAM 212.",
+    "courses": [
+      "TAM 212"
+    ]
+  },
+  {
+    "index": "ABE 425",
+    "name": "Engrg Measurement Systems",
+    "prerequisites": "ECE 205.",
+    "courses": [
+      "ECE 205"
+    ]
+  },
+  {
+    "index": "ABE 436",
+    "name": "Renewable Energy Systems",
+    "prerequisites": "PHYS 211.",
+    "courses": [
+      "PHYS 211"
+    ]
+  },
+  {
+    "index": "ABE 446",
+    "name": "Biological Nanoengineering",
+    "prerequisites": "MCB 150.",
+    "courses": [
+      "MCB 150"
+    ]
+  },
+  {
+    "index": "ABE 455",
+    "name": "Erosion and Sediment Control",
+    "prerequisites": "CEE 350 or NRES 401; CEE 380 or NRES 201.",
+    "courses": [
+      "CEE 350",
+      "NRES 401",
+      "CEE 380",
+      "NRES 201"
+    ]
+  },
+  {
+    "index": "ABE 457",
+    "name": "NPS Pollution Processes",
+    "prerequisites": "ABE 224 or CEE 350.",
+    "courses": [
+      "ABE 224",
+      "CEE 350"
+    ]
+  },
+  {
+    "index": "ABE 458",
+    "name": "NPS Pollution Modeling",
+    "prerequisites": "ABE 457.",
+    "courses": [
+      "ABE 457"
+    ]
+  },
+  {
+    "index": "ABE 466",
+    "name": "Engineering Off-Road Vehicles",
+    "prerequisites": "ABE 340 or ME 200.",
+    "courses": [
+      "ABE 340",
+      "ME 200"
+    ]
+  },
+  {
+    "index": "ABE 476",
+    "name": "Indoor Air Quality Engineering",
+    "prerequisites": "PHYS 213, MATH 285, and TAM 335.",
+    "courses": [
+      "PHYS 213",
+      "MATH 285",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "ACCY 303",
+    "name": "Accounting Institutions and Regulation",
+    "prerequisites": "ACCY 301 and FIN 221.",
+    "courses": [
+      "ACCY 301",
+      "FIN 221"
+    ]
+  },
+  {
+    "index": "ACCY 304",
+    "name": "Accounting Control Systems",
+    "prerequisites": "ACCY 301 and ACCY 302.",
+    "courses": [
+      "ACCY 301",
+      "ACCY 302"
+    ]
+  },
+  {
+    "index": "ACCY 575",
+    "name": "Data Analytics Applications in Accountancy",
+    "prerequisites": "ACCY 570.",
+    "courses": [
+      "ACCY 570"
+    ]
+  },
+  {
+    "index": "ACCY 577",
+    "name": "Machine Learning for Accounting",
+    "prerequisites": "ACCY 576.",
+    "courses": [
+      "ACCY 576"
+    ]
+  },
+  {
+    "index": "ACCY 585",
+    "name": "Constructs in Atg Research",
+    "prerequisites": "MATH 463 and ECON 502.",
+    "courses": [
+      "MATH 463",
+      "ECON 502"
+    ]
+  },
+  {
+    "index": "ACE 270",
+    "name": "Consumer Economics",
+    "prerequisites": "ACE 100 or ECON 102.",
+    "courses": [
+      "ACE 100",
+      "ECON 102"
+    ]
+  },
+  {
+    "index": "ACE 310",
+    "name": "Natural Resource Economics",
+    "prerequisites": "ACE 100 or ECON 102.",
+    "courses": [
+      "ACE 100",
+      "ECON 102"
+    ]
+  },
+  {
+    "index": "ACE 344",
+    "name": "FinTech in Personal Finance and Financial Planning",
+    "prerequisites": "ACE 240 or FIN 232.",
+    "courses": [
+      "ACE 240",
+      "FIN 232"
+    ]
+  },
+  {
+    "index": "ACE 349",
+    "name": "Risk Management and Financial Planning Across the Life Cycle",
+    "prerequisites": "ACE 240 or FIN 232.",
+    "courses": [
+      "ACE 240",
+      "FIN 232"
+    ]
+  },
+  {
+    "index": "ACE 411",
+    "name": "Environment and Development",
+    "prerequisites": "ACE 300 or ECON 302.",
+    "courses": [
+      "ACE 300",
+      "ECON 302"
+    ]
+  },
+  {
+    "index": "ACE 430",
+    "name": "Food Marketing",
+    "prerequisites": "ACE 100 or ECON 102.",
+    "courses": [
+      "ACE 100",
+      "ECON 102"
+    ]
+  },
+  {
+    "index": "ACE 441",
+    "name": "FINRA Professional Exam Review",
+    "prerequisites": "ACE 240 or FIN 232; ACE 349 or FIN 230; ACE 444 or FIN 441; and ACE 449.",
+    "courses": [
+      "ACE 240",
+      "FIN 232",
+      "ACE 349",
+      "FIN 230",
+      "ACE 444",
+      "FIN 441",
+      "ACE 449"
+    ]
+  },
+  {
+    "index": "ACE 502",
+    "name": "Demand/Supply/Firms/Households",
+    "prerequisites": "ECON 500 and ACE 501.",
+    "courses": [
+      "ECON 500",
+      "ACE 501"
+    ]
+  },
+  {
+    "index": "ACE 563",
+    "name": "Math Program App Econ I",
+    "prerequisites": "MATH 124; one of MATH 220, MATH 221, MATH 234.",
+    "courses": [
+      "MATH 124",
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ACE 569",
+    "name": "Career Development for PhDs",
+    "prerequisites": "ACE 561.",
+    "courses": [
+      "ACE 561"
+    ]
+  },
+  {
+    "index": "ADV 350",
+    "name": "Writing for Public Relations",
+    "prerequisites": "ADV 310.",
+    "courses": [
+      "ADV 310"
+    ]
+  },
+  {
+    "index": "ADV 410",
+    "name": "Public Relations Strategies",
+    "prerequisites": "ADV 310.",
+    "courses": [
+      "ADV 310"
+    ]
+  },
+  {
+    "index": "ADV 454",
+    "name": "Creative Concepts II",
+    "prerequisites": "ADV 452.",
+    "courses": [
+      "ADV 452"
+    ]
+  },
+  {
+    "index": "ADV 484",
+    "name": "Quantitative Research Methods",
+    "prerequisites": "ADV 281.",
+    "courses": [
+      "ADV 281"
+    ]
+  },
+  {
+    "index": "ADV 494",
+    "name": "Persuasion Consumer Response",
+    "prerequisites": "ADV 281.",
+    "courses": [
+      "ADV 281"
+    ]
+  },
+  {
+    "index": "ADV 498",
+    "name": "The Sandage Project",
+    "prerequisites": "ADV 250 or ADV 283, ADV 360 or ADV 460, and ADV 390.",
+    "courses": [
+      "ADV 250",
+      "ADV 283",
+      "ADV 360",
+      "ADV 460",
+      "ADV 390"
+    ]
+  },
+  {
+    "index": "AE 302",
+    "name": "Aerospace Flight Mechanics II",
+    "prerequisites": "AE 352.",
+    "courses": [
+      "AE 352"
+    ]
+  },
+  {
+    "index": "AE 321",
+    "name": "Mechs of Aerospace Structures",
+    "prerequisites": "MATH 285 and one of TAM 210 or TAM 211.",
+    "courses": [
+      "MATH 285",
+      "TAM 210",
+      "TAM 211"
+    ]
+  },
+  {
+    "index": "AE 323",
+    "name": "Applied Aerospace Structures",
+    "prerequisites": "AE 321, MATH 241, MATH 285, and one of TAM 210 or TAM 211.",
+    "courses": [
+      "AE 321",
+      "MATH 241",
+      "MATH 285",
+      "TAM 210",
+      "TAM 211"
+    ]
+  },
+  {
+    "index": "AE 352",
+    "name": "Aerospace Dynamical Systems",
+    "prerequisites": "MATH 225, MATH 257, or MATH 415; MATH 285, MATH 284, MATH 286, or MATH 441; and TAM 212.",
+    "courses": [
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 285",
+      "MATH 284",
+      "MATH 286",
+      "MATH 441",
+      "TAM 212"
+    ]
+  },
+  {
+    "index": "AE 353",
+    "name": "Aerospace Control Systems",
+    "prerequisites": "MATH 225, MATH 257, or MATH 415; and MATH 285 and TAM 212.",
+    "courses": [
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 285",
+      "TAM 212"
+    ]
+  },
+  {
+    "index": "AE 402",
+    "name": "Orbital Mechanics",
+    "prerequisites": "AE 202.",
+    "courses": [
+      "AE 202"
+    ]
+  },
+  {
+    "index": "AE 403",
+    "name": "Spacecraft Attitude Control",
+    "prerequisites": "AE 352 and AE 353.",
+    "courses": [
+      "AE 352",
+      "AE 353"
+    ]
+  },
+  {
+    "index": "AE 412",
+    "name": "Viscous Flow & Heat Transfer",
+    "prerequisites": "AE 311, ME 310 or TAM 335.",
+    "courses": [
+      "AE 311",
+      "ME 310",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "AE 416",
+    "name": "Applied Aerodynamics",
+    "prerequisites": "AE 311.",
+    "courses": [
+      "AE 311"
+    ]
+  },
+  {
+    "index": "AE 419",
+    "name": "Aircraft Flight Mechanics",
+    "prerequisites": "AE 202 and AE 353.",
+    "courses": [
+      "AE 202",
+      "AE 353"
+    ]
+  },
+  {
+    "index": "AE 433",
+    "name": "Aerospace Propulsion",
+    "prerequisites": "AE 312 and PHYS 212.",
+    "courses": [
+      "AE 312",
+      "PHYS 212"
+    ]
+  },
+  {
+    "index": "AE 434",
+    "name": "Rocket Propulsion",
+    "prerequisites": "AE 312.",
+    "courses": [
+      "AE 312"
+    ]
+  },
+  {
+    "index": "AE 435",
+    "name": "Electric Space Propulsion",
+    "prerequisites": "AE 312 or ME 410, PHYS 212, and ECE 205.",
+    "courses": [
+      "AE 312",
+      "ME 410",
+      "PHYS 212",
+      "ECE 205"
+    ]
+  },
+  {
+    "index": "AE 443",
+    "name": "Aerospace Systems Design II",
+    "prerequisites": "AE 442.",
+    "courses": [
+      "AE 442"
+    ]
+  },
+  {
+    "index": "AE 451",
+    "name": "Aeroelasticity",
+    "prerequisites": "AE 352 or TAM 412; TAM 251.",
+    "courses": [
+      "AE 352",
+      "TAM 412",
+      "TAM 251"
+    ]
+  },
+  {
+    "index": "AE 454",
+    "name": "Systems Dynamics & Control",
+    "prerequisites": "AE 353.",
+    "courses": [
+      "AE 353"
+    ]
+  },
+  {
+    "index": "AE 480",
+    "name": "Hypersonic Aerothermodynamics",
+    "prerequisites": "AE 312.",
+    "courses": [
+      "AE 312"
+    ]
+  },
+  {
+    "index": "AE 483",
+    "name": "Autonomous Systems Lab",
+    "prerequisites": "AE 202, AE 352, AE 353, AE 370, and PHYS 212.",
+    "courses": [
+      "AE 202",
+      "AE 352",
+      "AE 353",
+      "AE 370",
+      "PHYS 212"
+    ]
+  },
+  {
+    "index": "AE 485",
+    "name": "Spacecraft Environment and Interactions",
+    "prerequisites": "AE 311, AE 312, ME 200.",
+    "courses": [
+      "AE 311",
+      "AE 312",
+      "ME 200"
+    ]
+  },
+  {
+    "index": "AE 502",
+    "name": "Advanced Orbital Mechanics",
+    "prerequisites": "AE 402.",
+    "courses": [
+      "AE 402"
+    ]
+  },
+  {
+    "index": "AE 504",
+    "name": "Optimal Aerospace Systems",
+    "prerequisites": "AE 352.",
+    "courses": [
+      "AE 352"
+    ]
+  },
+  {
+    "index": "AE 511",
+    "name": "Transonic Aerodynamics",
+    "prerequisites": "ME 410.",
+    "courses": [
+      "ME 410"
+    ]
+  },
+  {
+    "index": "AE 512",
+    "name": "Molecular Gas Dynamics",
+    "prerequisites": "AE 311, AE 312, ME 200.",
+    "courses": [
+      "AE 311",
+      "AE 312",
+      "ME 200"
+    ]
+  },
+  {
+    "index": "AE 514",
+    "name": "Boundary Layer Theory",
+    "prerequisites": "AE 412.",
+    "courses": [
+      "AE 412"
+    ]
+  },
+  {
+    "index": "AE 515",
+    "name": "Wing Theory",
+    "prerequisites": "AE 416.",
+    "courses": [
+      "AE 416"
+    ]
+  },
+  {
+    "index": "AE 522",
+    "name": "Dynamic Response of Materials",
+    "prerequisites": "TAM 451 or TAM 551.",
+    "courses": [
+      "TAM 451",
+      "TAM 551"
+    ]
+  },
+  {
+    "index": "AE 523",
+    "name": "Nanoscale Contact Mechanics",
+    "prerequisites": "TAM 451 or TAM 551.",
+    "courses": [
+      "TAM 451",
+      "TAM 551"
+    ]
+  },
+  {
+    "index": "AE 525",
+    "name": "Advanced Composite Materials",
+    "prerequisites": "TAM 428.",
+    "courses": [
+      "TAM 428"
+    ]
+  },
+  {
+    "index": "AE 526",
+    "name": "Composites Manufacturing",
+    "prerequisites": "TAM 428.",
+    "courses": [
+      "TAM 428"
+    ]
+  },
+  {
+    "index": "AE 528",
+    "name": "Nonlinear Continuous Media",
+    "prerequisites": "AE 321 or TAM 451.",
+    "courses": [
+      "AE 321",
+      "TAM 451"
+    ]
+  },
+  {
+    "index": "AE 529",
+    "name": "Viscoelasticity Theory",
+    "prerequisites": "AE 321 or TAM 451.",
+    "courses": [
+      "AE 321",
+      "TAM 451"
+    ]
+  },
+  {
+    "index": "AE 543",
+    "name": "Aerospace Syst Engineering II",
+    "prerequisites": "AE 542.",
+    "courses": [
+      "AE 542"
+    ]
+  },
+  {
+    "index": "AE 550",
+    "name": "Nonlinear Aeroelasticity",
+    "prerequisites": "AE 451.",
+    "courses": [
+      "AE 451"
+    ]
+  },
+  {
+    "index": "AE 554",
+    "name": "Dynamical Systems Theory",
+    "prerequisites": "TAM 416 and either ME 340, TAM 412 or AE 352.",
+    "courses": [
+      "TAM 416",
+      "ME 340",
+      "TAM 412",
+      "AE 352"
+    ]
+  },
+  {
+    "index": "AE 555",
+    "name": "Multivariable Control Design",
+    "prerequisites": "ECE 515.",
+    "courses": [
+      "ECE 515"
+    ]
+  },
+  {
+    "index": "AE 556",
+    "name": "Robust Control",
+    "prerequisites": "ECE 515 and MATH 446.",
+    "courses": [
+      "ECE 515",
+      "MATH 446"
+    ]
+  },
+  {
+    "index": "AE 560",
+    "name": "Fracture Mechanics Laboratory",
+    "prerequisites": "TAM 451 or TAM 551.",
+    "courses": [
+      "TAM 451",
+      "TAM 551"
+    ]
+  },
+  {
+    "index": "AE 564",
+    "name": "Advanced Aero Propulsion Lab",
+    "prerequisites": "AE 311, AE 312, AE 433, AE 460.",
+    "courses": [
+      "AE 311",
+      "AE 312",
+      "AE 433",
+      "AE 460"
+    ]
+  },
+  {
+    "index": "AFRO 220",
+    "name": "Intro to Research Methods AfAm",
+    "prerequisites": "AFRO 100.",
+    "courses": [
+      "AFRO 100"
+    ]
+  },
+  {
+    "index": "AFRO 373",
+    "name": "AfAm Cultr Politic Mid20C",
+    "prerequisites": "AFRO 100 and AFRO 101, AFRO 261, ENGL 260 or HIST 276.",
+    "courses": [
+      "AFRO 100",
+      "AFRO 101",
+      "AFRO 261",
+      "ENGL 260",
+      "HIST 276"
+    ]
+  },
+  {
+    "index": "AFRO 495",
+    "name": "Senior Thesis Seminar",
+    "prerequisites": "AFRO 100 and AFRO 220 or AFRO 490.",
+    "courses": [
+      "AFRO 100",
+      "AFRO 220",
+      "AFRO 490"
+    ]
+  },
+  {
+    "index": "AGCM 380",
+    "name": "Publication Development and Production",
+    "prerequisites": "AGCM 220.",
+    "courses": [
+      "AGCM 220"
+    ]
+  },
+  {
+    "index": "AGED 350",
+    "name": "Early Field Experience",
+    "prerequisites": "AGED 250.",
+    "courses": [
+      "AGED 250"
+    ]
+  },
+  {
+    "index": "AGED 430",
+    "name": "Youth Development Programs",
+    "prerequisites": "AGED 220, or HDFS 105, or PSYC 100.",
+    "courses": [
+      "AGED 220",
+      "HDFS 105",
+      "PSYC 100"
+    ]
+  },
+  {
+    "index": "AGED 450",
+    "name": "Program Delivery and Eval",
+    "prerequisites": "AGED 420.",
+    "courses": [
+      "AGED 420"
+    ]
+  },
+  {
+    "index": "ALEC 491",
+    "name": "Getting 110% Effort – Principles of Adult Motivation",
+    "prerequisites": "ALEC 490.",
+    "courses": [
+      "ALEC 490"
+    ]
+  },
+  {
+    "index": "ALEC 492",
+    "name": "Digitizing Development – Teaching and Training Online",
+    "prerequisites": "ALEC 490.",
+    "courses": [
+      "ALEC 490"
+    ]
+  },
+  {
+    "index": "ALEC 545",
+    "name": "Research Methods and Design",
+    "prerequisites": "ALEC 505.",
+    "courses": [
+      "ALEC 505"
+    ]
+  },
+  {
+    "index": "ANSC 201",
+    "name": "Principles of Dairy Production",
+    "prerequisites": "ANSC 100.",
+    "courses": [
+      "ANSC 100"
+    ]
+  },
+  {
+    "index": "ANSC 223",
+    "name": "Animal Nutrition",
+    "prerequisites": "ANSC 100, ANSC 221, and CHEM 104 and CHEM 105.",
+    "courses": [
+      "ANSC 100",
+      "ANSC 221",
+      "CHEM 104",
+      "CHEM 105"
+    ]
+  },
+  {
+    "index": "ANSC 224",
+    "name": "Animal Reproduction and Growth",
+    "prerequisites": "ANSC 100, ANSC 221.",
+    "courses": [
+      "ANSC 100",
+      "ANSC 221"
+    ]
+  },
+  {
+    "index": "ANSC 322",
+    "name": "Livestock Feeds and Feeding",
+    "prerequisites": "ANSC 223.",
+    "courses": [
+      "ANSC 223"
+    ]
+  },
+  {
+    "index": "ANSC 363",
+    "name": "Behavior of Domestic Animals",
+    "prerequisites": "ANSC 100.",
+    "courses": [
+      "ANSC 100"
+    ]
+  },
+  {
+    "index": "ANSC 370",
+    "name": "Companion Animal Policy",
+    "prerequisites": "ANSC 250.",
+    "courses": [
+      "ANSC 250"
+    ]
+  },
+  {
+    "index": "ANSC 407",
+    "name": "Animal Shelter Management",
+    "prerequisites": "ANSC 207 or ANSC 307.",
+    "courses": [
+      "ANSC 207",
+      "ANSC 307"
+    ]
+  },
+  {
+    "index": "ANSC 452",
+    "name": "Animal Growth and Development",
+    "prerequisites": "ANSC 221, ANSC 222, ANSC 223, and ANSC 224.",
+    "courses": [
+      "ANSC 221",
+      "ANSC 222",
+      "ANSC 223",
+      "ANSC 224"
+    ]
+  },
+  {
+    "index": "ANSC 460",
+    "name": "The Secret Life of Animals: How Technology Can Help You Observe It and Take Action",
+    "prerequisites": "ANSC 360.",
+    "courses": [
+      "ANSC 360"
+    ]
+  },
+  {
+    "index": "ANSC 470",
+    "name": "Companion Animal Cruelty Investigations",
+    "prerequisites": "ANSC 250.",
+    "courses": [
+      "ANSC 250"
+    ]
+  },
+  {
+    "index": "ANSC 509",
+    "name": "Muscle Biology",
+    "prerequisites": "ANSC 452, ANSC 409, and ANSC 350 or MCB 450.",
+    "courses": [
+      "ANSC 452",
+      "ANSC 409",
+      "ANSC 350",
+      "MCB 450"
+    ]
+  },
+  {
+    "index": "ANTH 247",
+    "name": "Forensic Science DNA Lab",
+    "prerequisites": "ANTH 246.",
+    "courses": [
+      "ANTH 246"
+    ]
+  },
+  {
+    "index": "ANTH 346",
+    "name": "Forensic Anthropology",
+    "prerequisites": "ANTH 246.",
+    "courses": [
+      "ANTH 246"
+    ]
+  },
+  {
+    "index": "ANTH 347",
+    "name": "Human Osteology",
+    "prerequisites": "ANTH 240.",
+    "courses": [
+      "ANTH 240"
+    ]
+  },
+  {
+    "index": "ANTH 352",
+    "name": "Language and Gender",
+    "prerequisites": "ANTH 104 or ANTH 270.",
+    "courses": [
+      "ANTH 104",
+      "ANTH 270"
+    ]
+  },
+  {
+    "index": "ANTH 358",
+    "name": "People of the Ice Age",
+    "prerequisites": "ANTH 102.",
+    "courses": [
+      "ANTH 102"
+    ]
+  },
+  {
+    "index": "ANTH 423",
+    "name": "Economic Anthropology",
+    "prerequisites": "ANTH 230.",
+    "courses": [
+      "ANTH 230"
+    ]
+  },
+  {
+    "index": "ANTH 435",
+    "name": "The Neandertal Debate",
+    "prerequisites": "ANTH 240.",
+    "courses": [
+      "ANTH 240"
+    ]
+  },
+  {
+    "index": "ANTH 447",
+    "name": "Advanced Skeletal Biology",
+    "prerequisites": "ANTH 347.",
+    "courses": [
+      "ANTH 347"
+    ]
+  },
+  {
+    "index": "ANTH 452",
+    "name": "Stone Tool Technology Analysis",
+    "prerequisites": "ANTH 220.",
+    "courses": [
+      "ANTH 220"
+    ]
+  },
+  {
+    "index": "ANTH 472",
+    "name": "Border Latina, Latino Cultures",
+    "prerequisites": "ANTH 103, and ANTH 259 or ANTH 359.",
+    "courses": [
+      "ANTH 103",
+      "ANTH 259",
+      "ANTH 359"
+    ]
+  },
+  {
+    "index": "ARAB 202",
+    "name": "Elementary Standard Arabic II",
+    "prerequisites": "ARAB 201",
+    "courses": [
+      "ARAB 201"
+    ]
+  },
+  {
+    "index": "ARAB 211",
+    "name": "Colloquial Arabic II",
+    "prerequisites": "ARAB 210.",
+    "courses": [
+      "ARAB 210"
+    ]
+  },
+  {
+    "index": "ARAB 403",
+    "name": "Intermediate Stand Arabic I",
+    "prerequisites": "ARAB 202.",
+    "courses": [
+      "ARAB 202"
+    ]
+  },
+  {
+    "index": "ARAB 404",
+    "name": "Intermediate Stand Arabic II",
+    "prerequisites": "ARAB 403.",
+    "courses": [
+      "ARAB 403"
+    ]
+  },
+  {
+    "index": "ARAB 405",
+    "name": "Advanced Standard Arabic I",
+    "prerequisites": "ARAB 404.",
+    "courses": [
+      "ARAB 404"
+    ]
+  },
+  {
+    "index": "ARAB 406",
+    "name": "Advanced Standard Arabic II",
+    "prerequisites": "ARAB 405.",
+    "courses": [
+      "ARAB 405"
+    ]
+  },
+  {
+    "index": "ARAB 407",
+    "name": "Topics Stand Arabic Lang&Lit I",
+    "prerequisites": "ARAB 406.",
+    "courses": [
+      "ARAB 406"
+    ]
+  },
+  {
+    "index": "ARAB 408",
+    "name": "Topics Stand Arabic LangLit II",
+    "prerequisites": "ARAB 407.",
+    "courses": [
+      "ARAB 407"
+    ]
+  },
+  {
+    "index": "ARAB 409",
+    "name": "Adv Top Stand Arabic LangLit I",
+    "prerequisites": "ARAB 408.",
+    "courses": [
+      "ARAB 408"
+    ]
+  },
+  {
+    "index": "ARAB 410",
+    "name": "AdvTop Stand Arabic LangLit II",
+    "prerequisites": "ARAB 409.",
+    "courses": [
+      "ARAB 409"
+    ]
+  },
+  {
+    "index": "ARCH 172",
+    "name": "Introduction to Design II",
+    "prerequisites": "ARCH 171.",
+    "courses": [
+      "ARCH 171"
+    ]
+  },
+  {
+    "index": "ARCH 232",
+    "name": "Structural Fundamentals",
+    "prerequisites": "MATH 220 or MATH 221, and MATH 231 or PHYS 101.",
+    "courses": [
+      "MATH 220",
+      "MATH 221",
+      "MATH 231",
+      "PHYS 101"
+    ]
+  },
+  {
+    "index": "ARCH 409",
+    "name": "Studies in Spanish Architecture",
+    "prerequisites": "ARCH 210.",
+    "courses": [
+      "ARCH 210"
+    ]
+  },
+  {
+    "index": "ARCH 410",
+    "name": "Ancient Egyptian & Greek Arch",
+    "prerequisites": "ARCH 210, ARTH 111 or CLCV 131.",
+    "courses": [
+      "ARCH 210",
+      "ARTH 111",
+      "CLCV 131"
+    ]
+  },
+  {
+    "index": "ARCH 411",
+    "name": "Ancient Roman Architecture",
+    "prerequisites": "ARCH 210; ARTH 111, CLCV 131, or CLCV 132.",
+    "courses": [
+      "ARCH 210",
+      "ARTH 111",
+      "CLCV 131",
+      "CLCV 132"
+    ]
+  },
+  {
+    "index": "ARCH 412",
+    "name": "Medieval Architecture",
+    "prerequisites": "ARCH 210 or ARTH 111.",
+    "courses": [
+      "ARCH 210",
+      "ARTH 111"
+    ]
+  },
+  {
+    "index": "ARCH 435",
+    "name": "Structural Systems and Construction Methods",
+    "prerequisites": "ARCH 231, ARCH 232 and ARCH 433.",
+    "courses": [
+      "ARCH 231",
+      "ARCH 232",
+      "ARCH 433"
+    ]
+  },
+  {
+    "index": "ARCH 516",
+    "name": "Seminar in Modern Arch History",
+    "prerequisites": "ARCH 415, ARCH 416, or ARCH 417.",
+    "courses": [
+      "ARCH 415",
+      "ARCH 416",
+      "ARCH 417"
+    ]
+  },
+  {
+    "index": "ARCH 519",
+    "name": "Conserv of Building Materials",
+    "prerequisites": "ARCH 419.",
+    "courses": [
+      "ARCH 419"
+    ]
+  },
+  {
+    "index": "ARCH 538",
+    "name": "Integrative Design of Buildings",
+    "prerequisites": "ARCH 536 and ARCH 537",
+    "courses": [
+      "ARCH 536",
+      "ARCH 537"
+    ]
+  },
+  {
+    "index": "ARCH 551",
+    "name": "Structural Analysis",
+    "prerequisites": "ARCH 451 and ARCH 452.",
+    "courses": [
+      "ARCH 451",
+      "ARCH 452"
+    ]
+  },
+  {
+    "index": "ARCH 552",
+    "name": "Soil Mech and Foundations",
+    "prerequisites": "ARCH 452 and ARCH 551.",
+    "courses": [
+      "ARCH 452",
+      "ARCH 551"
+    ]
+  },
+  {
+    "index": "ARCH 560",
+    "name": "Advanced Structural Analysis",
+    "prerequisites": "ARCH 551.",
+    "courses": [
+      "ARCH 551"
+    ]
+  },
+  {
+    "index": "ARCH 575",
+    "name": "Integrative Architecture Design Studio",
+    "prerequisites": "ARCH 536 and ARCH 537.",
+    "courses": [
+      "ARCH 536",
+      "ARCH 537"
+    ]
+  },
+  {
+    "index": "ARTD 301",
+    "name": "Industrial Design III",
+    "prerequisites": "ARTD 202.",
+    "courses": [
+      "ARTD 202"
+    ]
+  },
+  {
+    "index": "ARTD 302",
+    "name": "Industrial Design IV",
+    "prerequisites": "ARTD 301.",
+    "courses": [
+      "ARTD 301"
+    ]
+  },
+  {
+    "index": "ARTD 318",
+    "name": "Interaction Design",
+    "prerequisites": "ARTD 218.",
+    "courses": [
+      "ARTD 218"
+    ]
+  },
+  {
+    "index": "ARTD 333",
+    "name": "Type & Image",
+    "prerequisites": "ARTD 222.",
+    "courses": [
+      "ARTD 222"
+    ]
+  },
+  {
+    "index": "ARTD 401",
+    "name": "Industrial Design V",
+    "prerequisites": "ARTD 302.",
+    "courses": [
+      "ARTD 302"
+    ]
+  },
+  {
+    "index": "ARTD 402",
+    "name": "Industrial Design VI",
+    "prerequisites": "ARTD 401.",
+    "courses": [
+      "ARTD 401"
+    ]
+  },
+  {
+    "index": "ARTD 418",
+    "name": "Advanced Interaction Design",
+    "prerequisites": "ARTD 318.",
+    "courses": [
+      "ARTD 318"
+    ]
+  },
+  {
+    "index": "ARTD 444",
+    "name": "Typographic Systems",
+    "prerequisites": "ARTD 333.",
+    "courses": [
+      "ARTD 333"
+    ]
+  },
+  {
+    "index": "ARTD 452",
+    "name": "Interaction Design Problems",
+    "prerequisites": "ARTD 222 and ARTD 318.",
+    "courses": [
+      "ARTD 222",
+      "ARTD 318"
+    ]
+  },
+  {
+    "index": "ARTD 471",
+    "name": "Graphic Design Capstone",
+    "prerequisites": "ARTD 371.",
+    "courses": [
+      "ARTD 371"
+    ]
+  },
+  {
+    "index": "ARTD 502",
+    "name": "Industrial Design II: From Ideation to Implementation",
+    "prerequisites": "ARTD 501.",
+    "courses": [
+      "ARTD 501"
+    ]
+  },
+  {
+    "index": "ARTD 503",
+    "name": "Industrial Design III: Design Project Formulation",
+    "prerequisites": "ARTD 502.",
+    "courses": [
+      "ARTD 502"
+    ]
+  },
+  {
+    "index": "ARTD 504",
+    "name": "Industrial Design IV: Thesis Research",
+    "prerequisites": "ARTD 503.",
+    "courses": [
+      "ARTD 503"
+    ]
+  },
+  {
+    "index": "ARTD 505",
+    "name": "Industrial Design V: Thesis Ideation",
+    "prerequisites": "ARTD 504.",
+    "courses": [
+      "ARTD 504"
+    ]
+  },
+  {
+    "index": "ARTD 506",
+    "name": "Industrial Design VI: Thesis Project Implementation",
+    "prerequisites": "ARTD 505.",
+    "courses": [
+      "ARTD 505"
+    ]
+  },
+  {
+    "index": "ARTF 105",
+    "name": "Design II",
+    "prerequisites": "ARTF 103.",
+    "courses": [
+      "ARTF 103"
+    ]
+  },
+  {
+    "index": "ARTS 267",
+    "name": "Digital Photographic Output",
+    "prerequisites": "ARTS 264.",
+    "courses": [
+      "ARTS 264"
+    ]
+  },
+  {
+    "index": "ARTS 310",
+    "name": "Ceramics Sculpture II",
+    "prerequisites": "ARTS 210.",
+    "courses": [
+      "ARTS 210"
+    ]
+  },
+  {
+    "index": "ARTS 354",
+    "name": "Intermediate Painting",
+    "prerequisites": "ARTS 251.",
+    "courses": [
+      "ARTS 251"
+    ]
+  },
+  {
+    "index": "ARTS 364",
+    "name": "Photography III",
+    "prerequisites": "ARTS 265.",
+    "courses": [
+      "ARTS 265"
+    ]
+  },
+  {
+    "index": "ARTS 365",
+    "name": "Photography Workshop",
+    "prerequisites": "ARTS 264.",
+    "courses": [
+      "ARTS 264"
+    ]
+  },
+  {
+    "index": "ARTS 381",
+    "name": "Intermediate Sculpture",
+    "prerequisites": "ARTS 280.",
+    "courses": [
+      "ARTS 280"
+    ]
+  },
+  {
+    "index": "ARTS 410",
+    "name": "Advanced Ceramics Sculpture",
+    "prerequisites": "ARTS 210.",
+    "courses": [
+      "ARTS 210"
+    ]
+  },
+  {
+    "index": "ARTS 455",
+    "name": "Advanced Painting",
+    "prerequisites": "ARTS 354.",
+    "courses": [
+      "ARTS 354"
+    ]
+  },
+  {
+    "index": "ASRM 441",
+    "name": "Statistics for Risk Modeling I",
+    "prerequisites": "ASRM 401 or STAT 400.",
+    "courses": [
+      "ASRM 401",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "ASRM 442",
+    "name": "Statistics for Risk Modeling II",
+    "prerequisites": "ASRM 401 or STAT 400; ASRM 441 or ASRM 450.",
+    "courses": [
+      "ASRM 401",
+      "STAT 400",
+      "ASRM 441",
+      "ASRM 450"
+    ]
+  },
+  {
+    "index": "ASRM 454",
+    "name": "Generalized Linear Models",
+    "prerequisites": "ASRM 441 or ASRM 450.",
+    "courses": [
+      "ASRM 441",
+      "ASRM 450"
+    ]
+  },
+  {
+    "index": "ASRM 455",
+    "name": "Predictive Analytics",
+    "prerequisites": "ASRM 401 or STAT 200 or STAT 361.",
+    "courses": [
+      "ASRM 401",
+      "STAT 200",
+      "STAT 361"
+    ]
+  },
+  {
+    "index": "ASRM 462",
+    "name": "Advanced Loss Models, Credibility, and Ratemaking",
+    "prerequisites": "ASRM 401 or STAT 400; ASRM 461.",
+    "courses": [
+      "ASRM 401",
+      "STAT 400",
+      "ASRM 461"
+    ]
+  },
+  {
+    "index": "ASRM 533",
+    "name": "Risk Management Practices and Regulation",
+    "prerequisites": "ASRM 401 or MATH 461 or STAT 400.",
+    "courses": [
+      "ASRM 401",
+      "MATH 461",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "ASRM 555",
+    "name": "Advanced Predictive Analytics",
+    "prerequisites": "ASRM 455.",
+    "courses": [
+      "ASRM 455"
+    ]
+  },
+  {
+    "index": "ASTR 210",
+    "name": "Introduction to Astrophysics",
+    "prerequisites": "PHYS 211.",
+    "courses": [
+      "PHYS 211"
+    ]
+  },
+  {
+    "index": "ATMS 202",
+    "name": "General Physical Climate",
+    "prerequisites": "MATH 220 or MATH 221.",
+    "courses": [
+      "MATH 220",
+      "MATH 221"
+    ]
+  },
+  {
+    "index": "ATMS 301",
+    "name": "Atmospheric Thermodynamics",
+    "prerequisites": "ATMS 201, MATH 241, and PHYS 211.",
+    "courses": [
+      "ATMS 201",
+      "MATH 241",
+      "PHYS 211"
+    ]
+  },
+  {
+    "index": "ATMS 302",
+    "name": "Atmospheric Dynamics I",
+    "prerequisites": "ATMS 201, MATH 241 and PHYS 211.",
+    "courses": [
+      "ATMS 201",
+      "MATH 241",
+      "PHYS 211"
+    ]
+  },
+  {
+    "index": "ATMS 304",
+    "name": "Radiative Transfer-Remote Sens",
+    "prerequisites": "MATH 241 and PHYS 212.",
+    "courses": [
+      "MATH 241",
+      "PHYS 212"
+    ]
+  },
+  {
+    "index": "ATMS 307",
+    "name": "Climate Processes",
+    "prerequisites": "ATMS 201.",
+    "courses": [
+      "ATMS 201"
+    ]
+  },
+  {
+    "index": "ATMS 312",
+    "name": "Atmospheric Dynamics II",
+    "prerequisites": "ATMS 301, ATMS 302.",
+    "courses": [
+      "ATMS 301",
+      "ATMS 302"
+    ]
+  },
+  {
+    "index": "ATMS 407",
+    "name": "Cloud Physics",
+    "prerequisites": "ATMS 301.",
+    "courses": [
+      "ATMS 301"
+    ]
+  },
+  {
+    "index": "ATMS 411",
+    "name": "Satellite Remote Sensing",
+    "prerequisites": "MATH 285 and PHYS 212.",
+    "courses": [
+      "MATH 285",
+      "PHYS 212"
+    ]
+  },
+  {
+    "index": "ATMS 420",
+    "name": "Atmospheric Chemistry",
+    "prerequisites": "CHEM 102, PHYS 211, and MATH 241.",
+    "courses": [
+      "CHEM 102",
+      "PHYS 211",
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "BADM 311",
+    "name": "Leading Individuals and Teams",
+    "prerequisites": "BADM 310.",
+    "courses": [
+      "BADM 310"
+    ]
+  },
+  {
+    "index": "BADM 312",
+    "name": "Designing and Managing Orgs",
+    "prerequisites": "BADM 310.",
+    "courses": [
+      "BADM 310"
+    ]
+  },
+  {
+    "index": "BADM 313",
+    "name": "Strategic Human Resource Management",
+    "prerequisites": "BADM 310.",
+    "courses": [
+      "BADM 310"
+    ]
+  },
+  {
+    "index": "BADM 321",
+    "name": "Principles of Retailing",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 322",
+    "name": "Marketing Research",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 323",
+    "name": "Marketing Communications",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 325",
+    "name": "Consumer Behavior",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 326",
+    "name": "Pricing Strategy",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 327",
+    "name": "Marketing to Business and Govt",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 329",
+    "name": "New Product Development",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 330",
+    "name": "Brand Management",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 336",
+    "name": "Modeling the Supply Chain",
+    "prerequisites": "BADM 335.",
+    "courses": [
+      "BADM 335"
+    ]
+  },
+  {
+    "index": "BADM 358",
+    "name": "Big Data Platforms",
+    "prerequisites": "BADM 352.",
+    "courses": [
+      "BADM 352"
+    ]
+  },
+  {
+    "index": "BADM 361",
+    "name": "Marketing Analytics",
+    "prerequisites": "BADM 210 and BADM 211.",
+    "courses": [
+      "BADM 210",
+      "BADM 211"
+    ]
+  },
+  {
+    "index": "BADM 362",
+    "name": "Introduction to Consumer Analytics",
+    "prerequisites": "BADM 211.",
+    "courses": [
+      "BADM 211"
+    ]
+  },
+  {
+    "index": "BADM 371",
+    "name": "User Interaction/User Experience Design",
+    "prerequisites": "BADM 353.",
+    "courses": [
+      "BADM 353"
+    ]
+  },
+  {
+    "index": "BADM 374",
+    "name": "Management Decision Models",
+    "prerequisites": "ECON 203 or BADM 210.",
+    "courses": [
+      "ECON 203",
+      "BADM 210"
+    ]
+  },
+  {
+    "index": "BADM 382",
+    "name": "International Marketing",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 383",
+    "name": "Topics in International Business",
+    "prerequisites": "BADM 380.",
+    "courses": [
+      "BADM 380"
+    ]
+  },
+  {
+    "index": "BADM 420",
+    "name": "Advanced Marketing Management",
+    "prerequisites": "BADM 320.",
+    "courses": [
+      "BADM 320"
+    ]
+  },
+  {
+    "index": "BADM 458",
+    "name": "IT Governance",
+    "prerequisites": "BADM 350.",
+    "courses": [
+      "BADM 350"
+    ]
+  },
+  {
+    "index": "BADM 460",
+    "name": "Business Process Modeling",
+    "prerequisites": "BADM 367.",
+    "courses": [
+      "BADM 367"
+    ]
+  },
+  {
+    "index": "BADM 461",
+    "name": "Tech, Eng, & Mgt Final Project",
+    "prerequisites": "BADM 366, BADM 367, BADM 460.",
+    "courses": [
+      "BADM 366",
+      "BADM 367",
+      "BADM 460"
+    ]
+  },
+  {
+    "index": "BIOE 201",
+    "name": "Conservation Principles Bioeng",
+    "prerequisites": "CHEM 104, MCB 150, and PHYS 211.",
+    "courses": [
+      "CHEM 104",
+      "MCB 150",
+      "PHYS 211"
+    ]
+  },
+  {
+    "index": "BIOE 206",
+    "name": "Cellular Bioengineering",
+    "prerequisites": "MCB 150.",
+    "courses": [
+      "MCB 150"
+    ]
+  },
+  {
+    "index": "BIOE 210",
+    "name": "Linear Algebra for Biomedical Data Science",
+    "prerequisites": "CS 101 or CS 124, and MATH 231.",
+    "courses": [
+      "CS 101",
+      "CS 124",
+      "MATH 231"
+    ]
+  },
+  {
+    "index": "BIOE 302",
+    "name": "Modeling Human Physiology",
+    "prerequisites": "BIOE 205 and one of MCB 252 or BIOE 206.",
+    "courses": [
+      "BIOE 205",
+      "MCB 252",
+      "BIOE 206"
+    ]
+  },
+  {
+    "index": "BIOE 360",
+    "name": "Transport & Flow in Bioengrg",
+    "prerequisites": "BIOE 201 and MATH 285.",
+    "courses": [
+      "BIOE 201",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "BIOE 414",
+    "name": "Biomedical Instrumentation",
+    "prerequisites": "BIOE 205, ECE 205 or ECE 210.",
+    "courses": [
+      "BIOE 205",
+      "ECE 205",
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "BIOE 420",
+    "name": "Intro Bio Control Systems",
+    "prerequisites": "BIOE 302, BIOE 303, BIOE 414, BIOE 415.",
+    "courses": [
+      "BIOE 302",
+      "BIOE 303",
+      "BIOE 414",
+      "BIOE 415"
+    ]
+  },
+  {
+    "index": "BIOE 430",
+    "name": "Intro Synthetic Biology",
+    "prerequisites": "BIOE 206 or MCB 252; and MATH 285.",
+    "courses": [
+      "BIOE 206",
+      "MCB 252",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "BIOE 450",
+    "name": "Introduction to Quantitative Pharmacology",
+    "prerequisites": "CS 101 or CS 124, CHEM 232 or CHEM 236, MCB 150, MATH 231.",
+    "courses": [
+      "CS 101",
+      "CS 124",
+      "CHEM 232",
+      "CHEM 236",
+      "MCB 150",
+      "MATH 231"
+    ]
+  },
+  {
+    "index": "BIOE 476",
+    "name": "Tissue Engineering",
+    "prerequisites": "MCB 150 and BIOE 206.",
+    "courses": [
+      "MCB 150",
+      "BIOE 206"
+    ]
+  },
+  {
+    "index": "BIOE 479",
+    "name": "Cancer Nanotechnology",
+    "prerequisites": "BIOE 206, CHEM 232.",
+    "courses": [
+      "BIOE 206",
+      "CHEM 232"
+    ]
+  },
+  {
+    "index": "BIOE 487",
+    "name": "Stem Cell Bioengineering",
+    "prerequisites": "BIOE 476.",
+    "courses": [
+      "BIOE 476"
+    ]
+  },
+  {
+    "index": "BIOE 504",
+    "name": "Analytical Methods in Bioeng",
+    "prerequisites": "MATH 285.",
+    "courses": [
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "BIOE 505",
+    "name": "Computational Bioengineering",
+    "prerequisites": "STAT 400.",
+    "courses": [
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "BIOE 507",
+    "name": "Advanced Bioinstrumentation",
+    "prerequisites": "BIOE 504.",
+    "courses": [
+      "BIOE 504"
+    ]
+  },
+  {
+    "index": "BIOE 510",
+    "name": "Computational Cancer Biology",
+    "prerequisites": "BIOE 206, CS 101, MATH 285.",
+    "courses": [
+      "BIOE 206",
+      "CS 101",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "BUS 401",
+    "name": "Crafting Your Purpose in Business",
+    "prerequisites": "BUS 301.",
+    "courses": [
+      "BUS 301"
+    ]
+  },
+  {
+    "index": "CEE 330",
+    "name": "Environmental Engineering",
+    "prerequisites": "CHEM 104 or CHEM 204.",
+    "courses": [
+      "CHEM 104",
+      "CHEM 204"
+    ]
+  },
+  {
+    "index": "CEE 340",
+    "name": "Energy and Global Environment",
+    "prerequisites": "PHYS 211; PHYS 213 or ME200; CEE 201 or IE 310; CEE 202, IE 300, or STAT 200.",
+    "courses": [
+      "PHYS 211",
+      "PHYS 213",
+      "ME 200",
+      "CEE 201",
+      "IE 310",
+      "CEE 202",
+      "IE 300",
+      "STAT 200"
+    ]
+  },
+  {
+    "index": "CEE 360",
+    "name": "Structural Engineering",
+    "prerequisites": "TAM 251.",
+    "courses": [
+      "TAM 251"
+    ]
+  },
+  {
+    "index": "CEE 380",
+    "name": "Geotechnical Engineering",
+    "prerequisites": "TAM 251.",
+    "courses": [
+      "TAM 251"
+    ]
+  },
+  {
+    "index": "CEE 401",
+    "name": "Concrete Materials",
+    "prerequisites": "CEE 300.",
+    "courses": [
+      "CEE 300"
+    ]
+  },
+  {
+    "index": "CEE 405",
+    "name": "Asphalt Materials I",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 406",
+    "name": "Pavement Design I",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 408",
+    "name": "Railroad Transportation Engrg",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 409",
+    "name": "Railroad Track Engineering",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 410",
+    "name": "Railway Signaling & Control",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 411",
+    "name": "RR Project Design & Constr",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 415",
+    "name": "Geometric Design of Roads",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 416",
+    "name": "Traffic Capacity Analysis",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 419",
+    "name": "Transportation Economics",
+    "prerequisites": "CEE 310.",
+    "courses": [
+      "CEE 310"
+    ]
+  },
+  {
+    "index": "CEE 420",
+    "name": "Construction Productivity",
+    "prerequisites": "CEE 320.",
+    "courses": [
+      "CEE 320"
+    ]
+  },
+  {
+    "index": "CEE 421",
+    "name": "Construction Planning",
+    "prerequisites": "CEE 320.",
+    "courses": [
+      "CEE 320"
+    ]
+  },
+  {
+    "index": "CEE 422",
+    "name": "Construction Cost Analysis",
+    "prerequisites": "CEE 320.",
+    "courses": [
+      "CEE 320"
+    ]
+  },
+  {
+    "index": "CEE 433",
+    "name": "Water Technology and Policy",
+    "prerequisites": "CEE 340 or CEE 350.",
+    "courses": [
+      "CEE 340",
+      "CEE 350"
+    ]
+  },
+  {
+    "index": "CEE 434",
+    "name": "Environmental Systems I",
+    "prerequisites": "CEE 201 and CEE 330.",
+    "courses": [
+      "CEE 201",
+      "CEE 330"
+    ]
+  },
+  {
+    "index": "CEE 435",
+    "name": "Public Health Engineering",
+    "prerequisites": "CEE 330.",
+    "courses": [
+      "CEE 330"
+    ]
+  },
+  {
+    "index": "CEE 440",
+    "name": "Fate Cleanup Environ Pollutant",
+    "prerequisites": "CEE 330.",
+    "courses": [
+      "CEE 330"
+    ]
+  },
+  {
+    "index": "CEE 442",
+    "name": "Environmental Engineering Principles, Physical",
+    "prerequisites": "CEE 437.",
+    "courses": [
+      "CEE 437"
+    ]
+  },
+  {
+    "index": "CEE 443",
+    "name": "Env Eng Principles, Chemical",
+    "prerequisites": "CEE 330.",
+    "courses": [
+      "CEE 330"
+    ]
+  },
+  {
+    "index": "CEE 444",
+    "name": "Env Eng Principles, Biological",
+    "prerequisites": "CEE 443 or CHEM 360.",
+    "courses": [
+      "CEE 443",
+      "CHEM 360"
+    ]
+  },
+  {
+    "index": "CEE 449",
+    "name": "Environmental Engineering Lab",
+    "prerequisites": "CEE 330.",
+    "courses": [
+      "CEE 330"
+    ]
+  },
+  {
+    "index": "CEE 450",
+    "name": "Surface Hydrology",
+    "prerequisites": "CEE 350.",
+    "courses": [
+      "CEE 350"
+    ]
+  },
+  {
+    "index": "CEE 451",
+    "name": "Environmental Fluid Mechanics",
+    "prerequisites": "CEE 331 or TAM 335.",
+    "courses": [
+      "CEE 331",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 452",
+    "name": "Hydraulic Analysis and Design",
+    "prerequisites": "CEE 331 or TAM 335.",
+    "courses": [
+      "CEE 331",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 453",
+    "name": "Urban Hydrology and Hydraulics",
+    "prerequisites": "CEE 350.",
+    "courses": [
+      "CEE 350"
+    ]
+  },
+  {
+    "index": "CEE 457",
+    "name": "Groundwater",
+    "prerequisites": "CEE 350 and CEE 331 or TAM 335.",
+    "courses": [
+      "CEE 350",
+      "CEE 331",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 458",
+    "name": "Water Resources Field Methods",
+    "prerequisites": "CEE 350",
+    "courses": [
+      "CEE 350"
+    ]
+  },
+  {
+    "index": "CEE 460",
+    "name": "Steel Structures I",
+    "prerequisites": "CEE 360.",
+    "courses": [
+      "CEE 360"
+    ]
+  },
+  {
+    "index": "CEE 461",
+    "name": "Reinforced Concrete I",
+    "prerequisites": "CEE 360.",
+    "courses": [
+      "CEE 360"
+    ]
+  },
+  {
+    "index": "CEE 462",
+    "name": "Steel Structures II",
+    "prerequisites": "CEE 460.",
+    "courses": [
+      "CEE 460"
+    ]
+  },
+  {
+    "index": "CEE 463",
+    "name": "Reinforced Concrete II",
+    "prerequisites": "CEE 461.",
+    "courses": [
+      "CEE 461"
+    ]
+  },
+  {
+    "index": "CEE 467",
+    "name": "Masonry Structures",
+    "prerequisites": "CEE 461.",
+    "courses": [
+      "CEE 461"
+    ]
+  },
+  {
+    "index": "CEE 468",
+    "name": "Prestressed Concrete",
+    "prerequisites": "CEE 461.",
+    "courses": [
+      "CEE 461"
+    ]
+  },
+  {
+    "index": "CEE 469",
+    "name": "Wood Structures",
+    "prerequisites": "CEE 460 or CEE 461.",
+    "courses": [
+      "CEE 460",
+      "CEE 461"
+    ]
+  },
+  {
+    "index": "CEE 470",
+    "name": "Structural Analysis",
+    "prerequisites": "CEE 360.",
+    "courses": [
+      "CEE 360"
+    ]
+  },
+  {
+    "index": "CEE 471",
+    "name": "Structural Mechanics",
+    "prerequisites": "MATH 285 and TAM 251.",
+    "courses": [
+      "MATH 285",
+      "TAM 251"
+    ]
+  },
+  {
+    "index": "CEE 472",
+    "name": "Structural Dynamics I",
+    "prerequisites": "CEE 360, MATH 285, and TAM 212.",
+    "courses": [
+      "CEE 360",
+      "MATH 285",
+      "TAM 212"
+    ]
+  },
+  {
+    "index": "CEE 473",
+    "name": "Wind Effects on Structures",
+    "prerequisites": "CEE 202 or STAT 400, TAM 335, and CEE 360.",
+    "courses": [
+      "CEE 202",
+      "STAT 400",
+      "TAM 335",
+      "CEE 360"
+    ]
+  },
+  {
+    "index": "CEE 483",
+    "name": "Soil Mechanics and Behavior",
+    "prerequisites": "CEE 380.",
+    "courses": [
+      "CEE 380"
+    ]
+  },
+  {
+    "index": "CEE 490",
+    "name": "Computer Methods",
+    "prerequisites": "CEE 360 and TAM 335.",
+    "courses": [
+      "CEE 360",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 491",
+    "name": "Decision and Risk Analysis",
+    "prerequisites": "CEE 202.",
+    "courses": [
+      "CEE 202"
+    ]
+  },
+  {
+    "index": "CEE 492",
+    "name": "Data Science for Civil and Environmental Engineering",
+    "prerequisites": "CS 101; CEE 202; and CEE 300, CEE 330, or CEE 360.",
+    "courses": [
+      "CS 101",
+      "CEE 202",
+      "CEE 300",
+      "CEE 330",
+      "CEE 360"
+    ]
+  },
+  {
+    "index": "CEE 502",
+    "name": "Advanced Cement Chemistry",
+    "prerequisites": "CEE 401.",
+    "courses": [
+      "CEE 401"
+    ]
+  },
+  {
+    "index": "CEE 503",
+    "name": "Constr Matls Deterioration",
+    "prerequisites": "CEE 401 or CEE 405.",
+    "courses": [
+      "CEE 401",
+      "CEE 405"
+    ]
+  },
+  {
+    "index": "CEE 504",
+    "name": "Infrastructure NDE Methods",
+    "prerequisites": "CEE 401 or CEE 405.",
+    "courses": [
+      "CEE 401",
+      "CEE 405"
+    ]
+  },
+  {
+    "index": "CEE 505",
+    "name": "Transportation Soil Stabilization",
+    "prerequisites": "CEE 483.",
+    "courses": [
+      "CEE 483"
+    ]
+  },
+  {
+    "index": "CEE 506",
+    "name": "Pavement Design II",
+    "prerequisites": "CEE 406.",
+    "courses": [
+      "CEE 406"
+    ]
+  },
+  {
+    "index": "CEE 508",
+    "name": "Pavement Evaluation and Rehab",
+    "prerequisites": "CEE 406.",
+    "courses": [
+      "CEE 406"
+    ]
+  },
+  {
+    "index": "CEE 509",
+    "name": "Transportation Soils",
+    "prerequisites": "CEE 483.",
+    "courses": [
+      "CEE 483"
+    ]
+  },
+  {
+    "index": "CEE 511",
+    "name": "Railway Terminal Design and Operations",
+    "prerequisites": "CEE 408 or CEE 409 or CEE 411.",
+    "courses": [
+      "CEE 408",
+      "CEE 409",
+      "CEE 411"
+    ]
+  },
+  {
+    "index": "CEE 512",
+    "name": "Logistics Systems Analysis",
+    "prerequisites": "CEE 310 and IE 310.",
+    "courses": [
+      "CEE 310",
+      "IE 310"
+    ]
+  },
+  {
+    "index": "CEE 517",
+    "name": "Traffic Signal Systems",
+    "prerequisites": "CEE 416.",
+    "courses": [
+      "CEE 416"
+    ]
+  },
+  {
+    "index": "CEE 524",
+    "name": "Construction Law",
+    "prerequisites": "CEE 420, CEE 421, and CEE 422.",
+    "courses": [
+      "CEE 420",
+      "CEE 421",
+      "CEE 422"
+    ]
+  },
+  {
+    "index": "CEE 525",
+    "name": "Construction Case Studies",
+    "prerequisites": "Two of CEE 420, CEE 421, and CEE 422.",
+    "courses": [
+      "CEE 420",
+      "CEE 421",
+      "CEE 422"
+    ]
+  },
+  {
+    "index": "CEE 526",
+    "name": "Construction Optimization",
+    "prerequisites": "One of CEE 420, CEE 421 or CEE 422.",
+    "courses": [
+      "CEE 420",
+      "CEE 421",
+      "CEE 422"
+    ]
+  },
+  {
+    "index": "CEE 528",
+    "name": "Construction Data Modeling",
+    "prerequisites": "Two of CEE 420, CEE 421, CEE 422.",
+    "courses": [
+      "CEE 420",
+      "CEE 421",
+      "CEE 422"
+    ]
+  },
+  {
+    "index": "CEE 534",
+    "name": "Surface Water Quality Modeling",
+    "prerequisites": "MATH 285, CEE 442, and CEE 451.",
+    "courses": [
+      "MATH 285",
+      "CEE 442",
+      "CEE 451"
+    ]
+  },
+  {
+    "index": "CEE 535",
+    "name": "Environmental Systems II",
+    "prerequisites": "CEE 202 and CEE 434.",
+    "courses": [
+      "CEE 202",
+      "CEE 434"
+    ]
+  },
+  {
+    "index": "CEE 540",
+    "name": "Remediation Design",
+    "prerequisites": "CEE 440.",
+    "courses": [
+      "CEE 440"
+    ]
+  },
+  {
+    "index": "CEE 543",
+    "name": "Env Organic Chemistry",
+    "prerequisites": "CEE 443 or NRES 490.",
+    "courses": [
+      "CEE 443",
+      "NRES 490"
+    ]
+  },
+  {
+    "index": "CEE 544",
+    "name": "Advanced Surface Science",
+    "prerequisites": "CEE 442.",
+    "courses": [
+      "CEE 442"
+    ]
+  },
+  {
+    "index": "CEE 545",
+    "name": "Aerosol Sampling and Analysis",
+    "prerequisites": "CEE 441.",
+    "courses": [
+      "CEE 441"
+    ]
+  },
+  {
+    "index": "CEE 550",
+    "name": "Hydroclimatology",
+    "prerequisites": "CEE 450.",
+    "courses": [
+      "CEE 450"
+    ]
+  },
+  {
+    "index": "CEE 551",
+    "name": "Open-Channel Hydraulics",
+    "prerequisites": "CEE 451.",
+    "courses": [
+      "CEE 451"
+    ]
+  },
+  {
+    "index": "CEE 552",
+    "name": "River Basin Management",
+    "prerequisites": "CEE 350 and CEE 434.",
+    "courses": [
+      "CEE 350",
+      "CEE 434"
+    ]
+  },
+  {
+    "index": "CEE 553",
+    "name": "River Morphodynamics",
+    "prerequisites": "TAM 335.",
+    "courses": [
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 554",
+    "name": "Hydrologic Variability",
+    "prerequisites": "CEE 450.",
+    "courses": [
+      "CEE 450"
+    ]
+  },
+  {
+    "index": "CEE 555",
+    "name": "Mixing in Environmental Flows",
+    "prerequisites": "MATH 285 and TAM 335.",
+    "courses": [
+      "MATH 285",
+      "TAM 335"
+    ]
+  },
+  {
+    "index": "CEE 556",
+    "name": "Hydrocomplexity",
+    "prerequisites": "CEE 450.",
+    "courses": [
+      "CEE 450"
+    ]
+  },
+  {
+    "index": "CEE 557",
+    "name": "Groundwater Modeling",
+    "prerequisites": "CEE 457 and MATH 285.",
+    "courses": [
+      "CEE 457",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "CEE 558",
+    "name": "Environmental Hydrodynamics: Modeling of Boundary-layer Flows in Rivers, Lakes and Oceans",
+    "prerequisites": "CEE 451.",
+    "courses": [
+      "CEE 451"
+    ]
+  },
+  {
+    "index": "CEE 559",
+    "name": "Sediment Transport",
+    "prerequisites": "CEE 551.",
+    "courses": [
+      "CEE 551"
+    ]
+  },
+  {
+    "index": "CEE 560",
+    "name": "Steel Structures III",
+    "prerequisites": "CEE 462.",
+    "courses": [
+      "CEE 462"
+    ]
+  },
+  {
+    "index": "CEE 562",
+    "name": "Highway Bridge Design",
+    "prerequisites": "CEE 460, CEE 461, CEE 472.",
+    "courses": [
+      "CEE 460",
+      "CEE 461",
+      "CEE 472"
+    ]
+  },
+  {
+    "index": "CEE 570",
+    "name": "Finite Element Methods",
+    "prerequisites": "CEE 471 or TAM 551.",
+    "courses": [
+      "CEE 471",
+      "TAM 551"
+    ]
+  },
+  {
+    "index": "CEE 572",
+    "name": "Earthquake Engineering",
+    "prerequisites": "CEE 472.",
+    "courses": [
+      "CEE 472"
+    ]
+  },
+  {
+    "index": "CEE 573",
+    "name": "Structural Dynamics II",
+    "prerequisites": "CEE 472.",
+    "courses": [
+      "CEE 472"
+    ]
+  },
+  {
+    "index": "CEE 574",
+    "name": "Probabilistic Loads and Design",
+    "prerequisites": "CEE 202 and CEE 472.",
+    "courses": [
+      "CEE 202",
+      "CEE 472"
+    ]
+  },
+  {
+    "index": "CEE 575",
+    "name": "Fracture and Fatigue",
+    "prerequisites": "One of CEE 471, TAM 451, TAM 551.",
+    "courses": [
+      "CEE 471",
+      "TAM 451",
+      "TAM 551"
+    ]
+  },
+  {
+    "index": "CEE 576",
+    "name": "Nonlinear Finite Elements",
+    "prerequisites": "CEE 471 or TAM 445; CEE 470 or ME 471.",
+    "courses": [
+      "CEE 471",
+      "TAM 445",
+      "CEE 470",
+      "ME 471"
+    ]
+  },
+  {
+    "index": "CEE 577",
+    "name": "Computational Inelasticity",
+    "prerequisites": "CEE 471 or TAM 551; CEE 570 or ME 471.",
+    "courses": [
+      "CEE 471",
+      "TAM 551",
+      "CEE 570",
+      "ME 471"
+    ]
+  },
+  {
+    "index": "CEE 578",
+    "name": "Structural Design Optimization",
+    "prerequisites": "CEE 470.",
+    "courses": [
+      "CEE 470"
+    ]
+  },
+  {
+    "index": "CEE 582",
+    "name": "Consolidation of Clays",
+    "prerequisites": "CEE 483.",
+    "courses": [
+      "CEE 483"
+    ]
+  },
+  {
+    "index": "CEE 583",
+    "name": "Shear Strength of Soils",
+    "prerequisites": "CEE 483.",
+    "courses": [
+      "CEE 483"
+    ]
+  },
+  {
+    "index": "CEE 585",
+    "name": "Deep Foundations",
+    "prerequisites": "CEE 484.",
+    "courses": [
+      "CEE 484"
+    ]
+  },
+  {
+    "index": "CEE 586",
+    "name": "Rock Mechanics and Behavior",
+    "prerequisites": "CEE 483 and TAM 451.",
+    "courses": [
+      "CEE 483",
+      "TAM 451"
+    ]
+  },
+  {
+    "index": "CEE 587",
+    "name": "Applied Rock Mechanics",
+    "prerequisites": "CEE 586.",
+    "courses": [
+      "CEE 586"
+    ]
+  },
+  {
+    "index": "CEE 588",
+    "name": "Geotechnical Earthquake Engrg",
+    "prerequisites": "CEE 472 and CEE 483.",
+    "courses": [
+      "CEE 472",
+      "CEE 483"
+    ]
+  },
+  {
+    "index": "CEE 590",
+    "name": "Geotechnical Field Measurement",
+    "prerequisites": "CEE 483 and CEE 484.",
+    "courses": [
+      "CEE 483",
+      "CEE 484"
+    ]
+  },
+  {
+    "index": "CEE 591",
+    "name": "Reliability Analysis",
+    "prerequisites": "CEE 491.",
+    "courses": [
+      "CEE 491"
+    ]
+  },
+  {
+    "index": "CHBE 121",
+    "name": "CHBE Profession",
+    "prerequisites": "CHEM 102 or CHEM 202.",
+    "courses": [
+      "CHEM 102",
+      "CHEM 202"
+    ]
+  },
+  {
+    "index": "CHBE 321",
+    "name": "Thermodynamics",
+    "prerequisites": "CHBE 221 and MATH 241.",
+    "courses": [
+      "CHBE 221",
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "CHBE 411",
+    "name": "Probability and Statistics for ChBE",
+    "prerequisites": "MATH 231.",
+    "courses": [
+      "MATH 231"
+    ]
+  },
+  {
+    "index": "CHBE 421",
+    "name": "Momentum and Heat Transfer",
+    "prerequisites": "CHBE 221 and MATH 241.",
+    "courses": [
+      "CHBE 221",
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "CHBE 422",
+    "name": "Mass Transfer Operations",
+    "prerequisites": "CHBE 321 and CHBE 421.",
+    "courses": [
+      "CHBE 321",
+      "CHBE 421"
+    ]
+  },
+  {
+    "index": "CHBE 451",
+    "name": "Transport Phenomena",
+    "prerequisites": "CHBE 421; MATH 285.",
+    "courses": [
+      "CHBE 421",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "CHBE 452",
+    "name": "Chemical Kinetics & Catalysis",
+    "prerequisites": "CHEM 442 or CHBE 321.",
+    "courses": [
+      "CHEM 442",
+      "CHBE 321"
+    ]
+  },
+  {
+    "index": "CHBE 474",
+    "name": "Metabolic Engineering",
+    "prerequisites": "MATH 225 and MATH 285.",
+    "courses": [
+      "MATH 225",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "CHBE 478",
+    "name": "Bioenergy Technology",
+    "prerequisites": "CHBE 321; MCB 450.",
+    "courses": [
+      "CHBE 321",
+      "MCB 450"
+    ]
+  },
+  {
+    "index": "CHBE 553",
+    "name": "Surface Chemistry",
+    "prerequisites": "CHEM 444.",
+    "courses": [
+      "CHEM 444"
+    ]
+  },
+  {
+    "index": "CHBE 565",
+    "name": "CHBE Seminar",
+    "prerequisites": "CHBE 422.",
+    "courses": [
+      "CHBE 422"
+    ]
+  },
+  {
+    "index": "CHBE 571",
+    "name": "Bioinformatics",
+    "prerequisites": "MATH 225; MATH 241 and MATH 461.",
+    "courses": [
+      "MATH 225",
+      "MATH 241",
+      "MATH 461"
+    ]
+  },
+  {
+    "index": "CHEM 232",
+    "name": "Elementary Organic Chemistry I",
+    "prerequisites": "CHEM 104 and CHEM 105, or CHEM 204.",
+    "courses": [
+      "CHEM 104",
+      "CHEM 105",
+      "CHEM 204"
+    ]
+  },
+  {
+    "index": "CHEM 312",
+    "name": "Inorganic Chemistry",
+    "prerequisites": "CHEM 232 or CHEM 236.",
+    "courses": [
+      "CHEM 232",
+      "CHEM 236"
+    ]
+  },
+  {
+    "index": "CHEM 315",
+    "name": "Instrumental Chem Systems Lab",
+    "prerequisites": "Either CHEM 237 or both CHEM 223 and CHEM 233.",
+    "courses": [
+      "CHEM 237",
+      "CHEM 223",
+      "CHEM 233"
+    ]
+  },
+  {
+    "index": "CHEM 332",
+    "name": "Elementary Organic Chem II",
+    "prerequisites": "CHEM 232 and CHEM 233.",
+    "courses": [
+      "CHEM 232",
+      "CHEM 233"
+    ]
+  },
+  {
+    "index": "CHEM 516",
+    "name": "Physical Inorganic Chemistry",
+    "prerequisites": "CHEM 444.",
+    "courses": [
+      "CHEM 444"
+    ]
+  },
+  {
+    "index": "CHEM 520",
+    "name": "Advanced Analytical Chemistry",
+    "prerequisites": "CHEM 315, CHEM 420, and CHEM 444.",
+    "courses": [
+      "CHEM 315",
+      "CHEM 420",
+      "CHEM 444"
+    ]
+  },
+  {
+    "index": "CHEM 530",
+    "name": "Structure and Spectroscopy",
+    "prerequisites": "CHEM 332 or CHEM 436.",
+    "courses": [
+      "CHEM 332",
+      "CHEM 436"
+    ]
+  },
+  {
+    "index": "CHEM 534",
+    "name": "Advanced Organic Synthesis",
+    "prerequisites": "CHEM 332 or CHEM 436.",
+    "courses": [
+      "CHEM 332",
+      "CHEM 436"
+    ]
+  },
+  {
+    "index": "CHEM 542",
+    "name": "Quantum Mech and Spectroscopy",
+    "prerequisites": "CHEM 540.",
+    "courses": [
+      "CHEM 540"
+    ]
+  },
+  {
+    "index": "CHEM 548",
+    "name": "Molecular Electronic Structure",
+    "prerequisites": "CHEM 540.",
+    "courses": [
+      "CHEM 540"
+    ]
+  },
+  {
+    "index": "CHIN 202",
+    "name": "Elementary Chinese II",
+    "prerequisites": "CHIN 201.",
+    "courses": [
+      "CHIN 201"
+    ]
+  },
+  {
+    "index": "CHIN 305",
+    "name": "Advanced Chinese I",
+    "prerequisites": "CHIN 204 or CHIN 242.",
+    "courses": [
+      "CHIN 204",
+      "CHIN 242"
+    ]
+  },
+  {
+    "index": "CHIN 306",
+    "name": "Advanced Chinese II",
+    "prerequisites": "CHIN 305.",
+    "courses": [
+      "CHIN 305"
+    ]
+  },
+  {
+    "index": "CI 402",
+    "name": "Teaching Diverse Middle Grade Students",
+    "prerequisites": "CI 401, CI 405, or CI 410.",
+    "courses": [
+      "CI 401",
+      "CI 405",
+      "CI 410"
+    ]
+  },
+  {
+    "index": "CI 466",
+    "name": "Language Literacy in Early Childhood Education II",
+    "prerequisites": "CI 465.",
+    "courses": [
+      "CI 465"
+    ]
+  },
+  {
+    "index": "CI 504",
+    "name": "Reading Instruction, 6-12",
+    "prerequisites": "CI 503.",
+    "courses": [
+      "CI 503"
+    ]
+  },
+  {
+    "index": "CI 506",
+    "name": "Reading Coaching & Leadership",
+    "prerequisites": "CI 503, CI 504.",
+    "courses": [
+      "CI 503",
+      "CI 504"
+    ]
+  },
+  {
+    "index": "CI 576",
+    "name": "Assessment-Based Reading Instruction",
+    "prerequisites": "CI 575.",
+    "courses": [
+      "CI 575"
+    ]
+  },
+  {
+    "index": "CI 577",
+    "name": "Clinical Practicum in Reading",
+    "prerequisites": "CI 575 and CI 576.",
+    "courses": [
+      "CI 575",
+      "CI 576"
+    ]
+  },
+  {
+    "index": "CMN 112",
+    "name": "Oral & Written Comm II",
+    "prerequisites": "CMN 111.",
+    "courses": [
+      "CMN 111"
+    ]
+  },
+  {
+    "index": "CMN 211",
+    "name": "Business and Professional Communication",
+    "prerequisites": "CMN 101.",
+    "courses": [
+      "CMN 101"
+    ]
+  },
+  {
+    "index": "CMN 215",
+    "name": "Interviewing: The Art and Science of Effective Questioning",
+    "prerequisites": "CMN 101 or CMN 111 and CMN 112.",
+    "courses": [
+      "CMN 101",
+      "CMN 111",
+      "CMN 112"
+    ]
+  },
+  {
+    "index": "CMN 323",
+    "name": "Argumentation",
+    "prerequisites": "CMN 101.",
+    "courses": [
+      "CMN 101"
+    ]
+  },
+  {
+    "index": "CMN 411",
+    "name": "Organizational Comm Assessment",
+    "prerequisites": "CMN 212.",
+    "courses": [
+      "CMN 212"
+    ]
+  },
+  {
+    "index": "CMN 412",
+    "name": "Adv Organizational Comm",
+    "prerequisites": "CMN 212.",
+    "courses": [
+      "CMN 212"
+    ]
+  },
+  {
+    "index": "CPSC 352",
+    "name": "Plant Genetics",
+    "prerequisites": "IB 103 or IB 104.",
+    "courses": [
+      "IB 103",
+      "IB 104"
+    ]
+  },
+  {
+    "index": "CPSC 382",
+    "name": "Organic Chem of Biol Processes",
+    "prerequisites": "CHEM 102 and CHEM 104 or CHEM 202 and CHEM 204.",
+    "courses": [
+      "CHEM 102",
+      "CHEM 104",
+      "CHEM 202",
+      "CHEM 204"
+    ]
+  },
+  {
+    "index": "CPSC 407",
+    "name": "Diseases of Field Crops",
+    "prerequisites": "CPSC 212.",
+    "courses": [
+      "CPSC 212"
+    ]
+  },
+  {
+    "index": "CPSC 408",
+    "name": "Integrated Pest Management",
+    "prerequisites": "CPSC 212.",
+    "courses": [
+      "CPSC 212"
+    ]
+  },
+  {
+    "index": "CPSC 431",
+    "name": "Plants and Global Change",
+    "prerequisites": "CPSC 112 or IB 103.",
+    "courses": [
+      "CPSC 112",
+      "IB 103"
+    ]
+  },
+  {
+    "index": "CPSC 454",
+    "name": "Plant Breeding Methods",
+    "prerequisites": "CPSC 453.",
+    "courses": [
+      "CPSC 453"
+    ]
+  },
+  {
+    "index": "CPSC 518",
+    "name": "Crop Growth and Development",
+    "prerequisites": "CPSC 418 or CPSC 484.",
+    "courses": [
+      "CPSC 418",
+      "CPSC 484"
+    ]
+  },
+  {
+    "index": "CPSC 526",
+    "name": "Herbicide Action in Plants",
+    "prerequisites": "CPSC 426 and CPSC 484.",
+    "courses": [
+      "CPSC 426",
+      "CPSC 484"
+    ]
+  },
+  {
+    "index": "CPSC 588",
+    "name": "Plant Biochemistry",
+    "prerequisites": "CPSC 484 and MCB 450.",
+    "courses": [
+      "CPSC 484",
+      "MCB 450"
+    ]
+  },
+  {
+    "index": "CS 101",
+    "name": "Intro Computing: Engrg & Sci",
+    "prerequisites": "One of MATH 220 or MATH 221 or MATH 231 or MATH 241.",
+    "courses": [
+      "MATH 220",
+      "MATH 221",
+      "MATH 231",
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "CS 105",
+    "name": "Intro Computing: Non-Tech",
+    "prerequisites": "MATH 112.",
+    "courses": [
+      "MATH 112"
+    ]
+  },
+  {
+    "index": "CS 128",
+    "name": "Introduction to Computer Science II",
+    "prerequisites": "CS 124 or CS 125.",
+    "courses": [
+      "CS 124",
+      "CS 125"
+    ]
+  },
+  {
+    "index": "CS 173",
+    "name": "Discrete Structures",
+    "prerequisites": "One of CS 124, CS 125, ECE 220; one of MATH 220, MATH 221.",
+    "courses": [
+      "CS 124",
+      "CS 125",
+      "ECE 220",
+      "MATH 220",
+      "MATH 221"
+    ]
+  },
+  {
+    "index": "CS 211",
+    "name": "Ethical and Professional Conduct",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 225",
+    "name": "Data Structures",
+    "prerequisites": "CS 126 or CS 128 or ECE 220; One of CS 173, CS 413, MATH 213, MATH 347, MATH 412, or MATH 413.",
+    "courses": [
+      "CS 126",
+      "CS 128",
+      "ECE 220",
+      "CS 173",
+      "CS 413",
+      "MATH 213",
+      "MATH 347",
+      "MATH 412",
+      "MATH 413"
+    ]
+  },
+  {
+    "index": "CS 242",
+    "name": "Programming Studio",
+    "prerequisites": "CS 241.",
+    "courses": [
+      "CS 241"
+    ]
+  },
+  {
+    "index": "CS 307",
+    "name": "Modeling and Learning in Data Science",
+    "prerequisites": "STAT 207; one of MATH 225, MATH 227, MATH 257, MATH 415, MATH 416, ASRM 406.",
+    "courses": [
+      "STAT 207",
+      "MATH 225",
+      "MATH 227",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406"
+    ]
+  },
+  {
+    "index": "CS 340",
+    "name": "Introduction to Computer Systems",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 341",
+    "name": "System Programming",
+    "prerequisites": "CS 225 and CS 233.",
+    "courses": [
+      "CS 225",
+      "CS 233"
+    ]
+  },
+  {
+    "index": "CS 357",
+    "name": "Numerical Methods I",
+    "prerequisites": "One of CS 101, CS 105, CS 124, CS 125 or ECE 220; MATH 241; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210.",
+    "courses": [
+      "CS 101",
+      "CS 105",
+      "CS 124",
+      "CS 125",
+      "ECE 220",
+      "MATH 241",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 374",
+    "name": "Introduction to Algorithms & Models of Computation",
+    "prerequisites": "One of CS 173, MATH 213; CS 225.",
+    "courses": [
+      "CS 173",
+      "MATH 213",
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 409",
+    "name": "The Art of Web Programming",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 410",
+    "name": "Text Information Systems",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 411",
+    "name": "Database Systems",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 412",
+    "name": "Introduction to Data Mining",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 414",
+    "name": "Multimedia Systems",
+    "prerequisites": "One of CS 240, CS 241, CS 340, CS 341 or ECE 391.",
+    "courses": [
+      "CS 240",
+      "CS 241",
+      "CS 340",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 415",
+    "name": "Game Development",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 416",
+    "name": "Data Visualization",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 417",
+    "name": "Virtual Reality",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 418",
+    "name": "Interactive Computer Graphics",
+    "prerequisites": "CS 225; One of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210; MATH 241.",
+    "courses": [
+      "CS 225",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210",
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "CS 419",
+    "name": "Production Computer Graphics",
+    "prerequisites": "CS 418 or CSE 427.",
+    "courses": [
+      "CS 418",
+      "CSE 427"
+    ]
+  },
+  {
+    "index": "CS 420",
+    "name": "Parallel Progrmg: Sci & Engrg",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 421",
+    "name": "Programming Languages & Compilers",
+    "prerequisites": "One of CS 233, CS 240, CS 340 or ECE 391; CS 374 or ECE 374; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210.",
+    "courses": [
+      "CS 233",
+      "CS 240",
+      "CS 340",
+      "ECE 391",
+      "CS 374",
+      "ECE 374",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 422",
+    "name": "Programming Language Design",
+    "prerequisites": "CS 421.",
+    "courses": [
+      "CS 421"
+    ]
+  },
+  {
+    "index": "CS 423",
+    "name": "Operating Systems Design",
+    "prerequisites": "One of CS 241, CS 341, or ECE 391.",
+    "courses": [
+      "CS 241",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 424",
+    "name": "Real-Time Systems",
+    "prerequisites": "One of CS 241, CS 341 or ECE 391.",
+    "courses": [
+      "CS 241",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 427",
+    "name": "Software Engineering I",
+    "prerequisites": "One of CS 222, CS 240, CS 241, CS 340, CS 341 or ECE 391.",
+    "courses": [
+      "CS 222",
+      "CS 240",
+      "CS 241",
+      "CS 340",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 428",
+    "name": "Software Engineering II",
+    "prerequisites": "CS 427 or CSE 426.",
+    "courses": [
+      "CS 427",
+      "CSE 426"
+    ]
+  },
+  {
+    "index": "CS 429",
+    "name": "Software Engineering II, ACP",
+    "prerequisites": "CS 427 or CSE 426.",
+    "courses": [
+      "CS 427",
+      "CSE 426"
+    ]
+  },
+  {
+    "index": "CS 431",
+    "name": "Embedded Systems",
+    "prerequisites": "One of CS 241, CS 341 or ECE 391.",
+    "courses": [
+      "CS 241",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 433",
+    "name": "Computer System Organization",
+    "prerequisites": "CS 233.",
+    "courses": [
+      "CS 233"
+    ]
+  },
+  {
+    "index": "CS 435",
+    "name": "Cloud Networking",
+    "prerequisites": "One of CS 240, CS 241, CS 340, CS 341 or ECE 391.",
+    "courses": [
+      "CS 240",
+      "CS 241",
+      "CS 340",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 436",
+    "name": "Computer Networking Laboratory",
+    "prerequisites": "One of CS 240, CS 241, CS 340, CS 341 or ECE 391.",
+    "courses": [
+      "CS 240",
+      "CS 241",
+      "CS 340",
+      "CS 341",
+      "ECE 391"
+    ]
+  },
+  {
+    "index": "CS 440",
+    "name": "Artificial Intelligence",
+    "prerequisites": "CS 225; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310.",
+    "courses": [
+      "CS 225",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400",
+      "BIOE 310"
+    ]
+  },
+  {
+    "index": "CS 441",
+    "name": "Applied Machine Learning",
+    "prerequisites": "CS 225 and CS 361.",
+    "courses": [
+      "CS 225",
+      "CS 361"
+    ]
+  },
+  {
+    "index": "CS 442",
+    "name": "Trustworthy Machine Learning",
+    "prerequisites": "CS 225; one of CS 440, ECE 448, CS 441, CS 446 or ECE 449; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210.",
+    "courses": [
+      "CS 225",
+      "CS 440",
+      "ECE 448",
+      "CS 441",
+      "CS 446",
+      "ECE 449",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 443",
+    "name": "Reinforcement Learning",
+    "prerequisites": "CS 225; MATH 241; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400.",
+    "courses": [
+      "CS 225",
+      "MATH 241",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "CS 445",
+    "name": "Computational Photography",
+    "prerequisites": "CS 225, MATH 225, and MATH 231.",
+    "courses": [
+      "CS 225",
+      "MATH 225",
+      "MATH 231"
+    ]
+  },
+  {
+    "index": "CS 446",
+    "name": "Machine Learning",
+    "prerequisites": "CS 225; One of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310.",
+    "courses": [
+      "CS 225",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400",
+      "BIOE 310"
+    ]
+  },
+  {
+    "index": "CS 447",
+    "name": "Natural Language Processing",
+    "prerequisites": "One of CS 173 or MATH 213; CS 225; CS 374 or ECE 374; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210.",
+    "courses": [
+      "CS 173",
+      "MATH 213",
+      "CS 225",
+      "CS 374",
+      "ECE 374",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400",
+      "BIOE 310",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 448",
+    "name": "Audio Computing Laboratory",
+    "prerequisites": "One of CS 240, CS 241, CS 340, CS 341, or ECE 391; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210.",
+    "courses": [
+      "CS 240",
+      "CS 241",
+      "CS 340",
+      "CS 341",
+      "ECE 391",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 450",
+    "name": "Numerical Analysis",
+    "prerequisites": "One of CS 101, CS 124 or CS 125; one of CS 357, MATH 257, MATH 357, MATH 415, or MATH 416; MATH 285.",
+    "courses": [
+      "CS 101",
+      "CS 124",
+      "CS 125",
+      "CS 357",
+      "MATH 257",
+      "MATH 357",
+      "MATH 415",
+      "MATH 416",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "CS 460",
+    "name": "Security Laboratory",
+    "prerequisites": "CS 461 or ECE 422.",
+    "courses": [
+      "CS 461",
+      "ECE 422"
+    ]
+  },
+  {
+    "index": "CS 465",
+    "name": "User Interface Design",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 466",
+    "name": "Introduction to Bioinformatics",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 467",
+    "name": "Social Visualization",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "CS 469",
+    "name": "Computational Advertising Infrastructure",
+    "prerequisites": "CS 173; CS 225; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400.",
+    "courses": [
+      "CS 173",
+      "CS 225",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "CS 470",
+    "name": "Social and Information Networks",
+    "prerequisites": "CS 225; CS 173; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210.",
+    "courses": [
+      "CS 225",
+      "CS 173",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400",
+      "MATH 225",
+      "MATH 257",
+      "MATH 415",
+      "MATH 416",
+      "ASRM 406",
+      "BIOE 210"
+    ]
+  },
+  {
+    "index": "CS 473",
+    "name": "Algorithms",
+    "prerequisites": "CS 374 or ECE 374, and one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400.",
+    "courses": [
+      "CS 374",
+      "ECE 374",
+      "CS 361",
+      "STAT 361",
+      "ECE 313",
+      "MATH 362",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "CS 474",
+    "name": "Logic in Computer Science",
+    "prerequisites": "CS 173; CS 225; one of CS 374 or ECE 374.",
+    "courses": [
+      "CS 173",
+      "CS 225",
+      "CS 374",
+      "ECE 374"
+    ]
+  },
+  {
+    "index": "CS 475",
+    "name": "Formal Models of Computation",
+    "prerequisites": "CS 374 or ECE 374.",
+    "courses": [
+      "CS 374",
+      "ECE 374"
+    ]
+  },
+  {
+    "index": "CS 476",
+    "name": "Program Verification",
+    "prerequisites": "CS 225; one of CS 374, ECE 374 or MATH 414.",
+    "courses": [
+      "CS 225",
+      "CS 374",
+      "ECE 374",
+      "MATH 414"
+    ]
+  },
+  {
+    "index": "CS 477",
+    "name": "Formal Software Development Methods",
+    "prerequisites": "CS 225; one of CS 374, ECE 374 or MATH 414.",
+    "courses": [
+      "CS 225",
+      "CS 374",
+      "ECE 374",
+      "MATH 414"
+    ]
+  },
+  {
+    "index": "CS 484",
+    "name": "Parallel Programming",
+    "prerequisites": "CS 241 or CS 341.",
+    "courses": [
+      "CS 241",
+      "CS 341"
+    ]
+  },
+  {
+    "index": "CS 493",
+    "name": "Senior Project II, ACP",
+    "prerequisites": "CS 492.",
+    "courses": [
+      "CS 492"
+    ]
+  },
+  {
+    "index": "CS 494",
+    "name": "Senior Project II",
+    "prerequisites": "CS 492.",
+    "courses": [
+      "CS 492"
+    ]
+  },
+  {
+    "index": "CS 510",
+    "name": "Advanced Information Retrieval",
+    "prerequisites": "One of CS 410, CS 412, CS 446, ECE 449 or LING 406.",
+    "courses": [
+      "CS 410",
+      "CS 412",
+      "CS 446",
+      "ECE 449",
+      "LING 406"
+    ]
+  },
+  {
+    "index": "CS 511",
+    "name": "Advanced Data Management",
+    "prerequisites": "CS 411.",
+    "courses": [
+      "CS 411"
+    ]
+  },
+  {
+    "index": "CS 512",
+    "name": "Data Mining Principles",
+    "prerequisites": "CS 412.",
+    "courses": [
+      "CS 412"
+    ]
+  },
+  {
+    "index": "CS 519",
+    "name": "Scientific Visualization",
+    "prerequisites": "CS 418 or CSE 427.",
+    "courses": [
+      "CS 418",
+      "CSE 427"
+    ]
+  },
+  {
+    "index": "CS 522",
+    "name": "Programming Language Semantics",
+    "prerequisites": "CS 422 and CS 426.",
+    "courses": [
+      "CS 422",
+      "CS 426"
+    ]
+  },
+  {
+    "index": "CS 523",
+    "name": "Advanced Operating Systems",
+    "prerequisites": "One of CS 423 or CSE 423; one of CS 425 or ECE 428; and one of CS 433 or CSE 422.",
+    "courses": [
+      "CS 423",
+      "CSE 423",
+      "CS 425",
+      "ECE 428",
+      "CS 433",
+      "CSE 422"
+    ]
+  },
+  {
+    "index": "CS 524",
+    "name": "Concurrent Progrmg Languages",
+    "prerequisites": "CS 422; one of CS 475, MATH 475 or CS 476.",
+    "courses": [
+      "CS 422",
+      "CS 475",
+      "MATH 475",
+      "CS 476"
+    ]
+  },
+  {
+    "index": "CS 525",
+    "name": "Advanced Distributed Systems",
+    "prerequisites": "One of CS 423, CSE 423, CS 425, ECE 428, CS 438 or ECE 438.",
+    "courses": [
+      "CS 423",
+      "CSE 423",
+      "CS 425",
+      "ECE 428",
+      "CS 438",
+      "ECE 438"
+    ]
+  },
+  {
+    "index": "CS 526",
+    "name": "Advanced Compiler Construction",
+    "prerequisites": "CS 426.",
+    "courses": [
+      "CS 426"
+    ]
+  },
+  {
+    "index": "CS 527",
+    "name": "Topics in Software Engineering",
+    "prerequisites": "CS 428, CSE 429 or CS 429.",
+    "courses": [
+      "CS 428",
+      "CSE 429",
+      "CS 429"
+    ]
+  },
+  {
+    "index": "CS 533",
+    "name": "Parallel Computer Architecture",
+    "prerequisites": "CS 433 or CSE 422.",
+    "courses": [
+      "CS 433",
+      "CSE 422"
+    ]
+  },
+  {
+    "index": "CS 538",
+    "name": "Advanced Computer Networks",
+    "prerequisites": "CS 438 or ECE 438.",
+    "courses": [
+      "CS 438",
+      "ECE 438"
+    ]
+  },
+  {
+    "index": "CS 544",
+    "name": "Optimiz in Computer Vision",
+    "prerequisites": "One of CS 450, CSE 401, ECE 491, or MATH 450; one of CS 473, CSE 414 or MATH 473.",
+    "courses": [
+      "CS 450",
+      "CSE 401",
+      "ECE 491",
+      "MATH 450",
+      "CS 473",
+      "CSE 414",
+      "MATH 473"
+    ]
+  },
+  {
+    "index": "CS 545",
+    "name": "Machine Learning for Signal Processing",
+    "prerequisites": "MATH 415; one of CS 361, STAT 361, MATH 461, MATH 463 or STAT 400.",
+    "courses": [
+      "MATH 415",
+      "CS 361",
+      "STAT 361",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "CS 554",
+    "name": "Parallel Numerical Algorithms",
+    "prerequisites": "One of CS 450, CSE 401, ECE 491, MATH 450, CS 457, CS 555, CSE 510 or MATH 552.",
+    "courses": [
+      "CS 450",
+      "CSE 401",
+      "ECE 491",
+      "MATH 450",
+      "CS 457",
+      "CS 555",
+      "CSE 510",
+      "MATH 552"
+    ]
+  },
+  {
+    "index": "CS 555",
+    "name": "Numerical Methods for PDEs",
+    "prerequisites": "CS 450, CSE 401, ECE 491, MATH 450 or CS 457.",
+    "courses": [
+      "CS 450",
+      "CSE 401",
+      "ECE 491",
+      "MATH 450",
+      "CS 457"
+    ]
+  },
+  {
+    "index": "CS 563",
+    "name": "Advanced Computer Security",
+    "prerequisites": "One of CS 461, CS 463, ECE 422 or ECE 424.",
+    "courses": [
+      "CS 461",
+      "CS 463",
+      "ECE 422",
+      "ECE 424"
+    ]
+  },
+  {
+    "index": "CS 565",
+    "name": "Human-Computer Interaction",
+    "prerequisites": "CS 465.",
+    "courses": [
+      "CS 465"
+    ]
+  },
+  {
+    "index": "CS 574",
+    "name": "Randomized Algorithms",
+    "prerequisites": "One of CS 473, CSE 414, or MATH 473; one of MATH 461, MATH 463 or STAT 400.",
+    "courses": [
+      "CS 473",
+      "CSE 414",
+      "MATH 473",
+      "MATH 461",
+      "MATH 463",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "CS 579",
+    "name": "Computational Complexity",
+    "prerequisites": "One of CS 473, CSE 414, MATH 473, CS 475 or MATH 475.",
+    "courses": [
+      "CS 473",
+      "CSE 414",
+      "MATH 473",
+      "CS 475",
+      "MATH 475"
+    ]
+  },
+  {
+    "index": "CS 580",
+    "name": "Topics in Algorithmic Game Theory",
+    "prerequisites": "CS 473.",
+    "courses": [
+      "CS 473"
+    ]
+  },
+  {
+    "index": "CW 206",
+    "name": "Poetry Workshop II",
+    "prerequisites": "CW 106.",
+    "courses": [
+      "CW 106"
+    ]
+  },
+  {
+    "index": "CW 460",
+    "name": "Intro to Literary Editing",
+    "prerequisites": "CW 104 or CW 106.",
+    "courses": [
+      "CW 104",
+      "CW 106"
+    ]
+  },
+  {
+    "index": "CZCH 102",
+    "name": "Elementary Czech II",
+    "prerequisites": "CZCH 101.",
+    "courses": [
+      "CZCH 101"
+    ]
+  },
+  {
+    "index": "ECE 205",
+    "name": "Electrical and Electronic Circuits",
+    "prerequisites": "PHYS 212.",
+    "courses": [
+      "PHYS 212"
+    ]
+  },
+  {
+    "index": "ECE 206",
+    "name": "Electrical and Electronic Circuits Lab",
+    "prerequisites": "ECE 205.",
+    "courses": [
+      "ECE 205"
+    ]
+  },
+  {
+    "index": "ECE 217",
+    "name": "Solar Car",
+    "prerequisites": "ECE 110.",
+    "courses": [
+      "ECE 110"
+    ]
+  },
+  {
+    "index": "ECE 304",
+    "name": "Photonic Devices",
+    "prerequisites": "PHYS 214.",
+    "courses": [
+      "PHYS 214"
+    ]
+  },
+  {
+    "index": "ECE 310",
+    "name": "Digital Signal Processing",
+    "prerequisites": "ECE 210.",
+    "courses": [
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 313",
+    "name": "Probability with Engrg Applic",
+    "prerequisites": "MATH 257 or MATH 416.",
+    "courses": [
+      "MATH 257",
+      "MATH 416"
+    ]
+  },
+  {
+    "index": "ECE 316",
+    "name": "Ethics and Engineering",
+    "prerequisites": "RHET 105.",
+    "courses": [
+      "RHET 105"
+    ]
+  },
+  {
+    "index": "ECE 317",
+    "name": "ECE Technology & Management",
+    "prerequisites": "One of MATH 220, MATH 221, MATH 234.",
+    "courses": [
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ECE 329",
+    "name": "Fields and Waves I",
+    "prerequisites": "ECE 210.",
+    "courses": [
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 330",
+    "name": "Power Ckts & Electromechanics",
+    "prerequisites": "ECE 210.",
+    "courses": [
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 333",
+    "name": "Green Electric Energy",
+    "prerequisites": "ECE 205 or ECE 210.",
+    "courses": [
+      "ECE 205",
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 340",
+    "name": "Semiconductor Electronics",
+    "prerequisites": "(ECE 205 or ECE 210) and PHYS 214.",
+    "courses": [
+      "ECE 205",
+      "ECE 210",
+      "PHYS 214"
+    ]
+  },
+  {
+    "index": "ECE 342",
+    "name": "Electronic Circuits",
+    "prerequisites": "ECE 210.",
+    "courses": [
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 350",
+    "name": "Fields and Waves II",
+    "prerequisites": "ECE 329.",
+    "courses": [
+      "ECE 329"
+    ]
+  },
+  {
+    "index": "ECE 364",
+    "name": "Programming Methods for Machine Learning",
+    "prerequisites": "MATH 257.",
+    "courses": [
+      "MATH 257"
+    ]
+  },
+  {
+    "index": "ECE 365",
+    "name": "Data Science and Engineering",
+    "prerequisites": "ECE 313.",
+    "courses": [
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 380",
+    "name": "Biomedical Imaging",
+    "prerequisites": "MATH 285 or MATH 286.",
+    "courses": [
+      "MATH 285",
+      "MATH 286"
+    ]
+  },
+  {
+    "index": "ECE 385",
+    "name": "Digital Systems Laboratory",
+    "prerequisites": "ECE 110 and ECE 220.",
+    "courses": [
+      "ECE 110",
+      "ECE 220"
+    ]
+  },
+  {
+    "index": "ECE 391",
+    "name": "Computer Systems Engineering",
+    "prerequisites": "ECE 220 or CS 233.",
+    "courses": [
+      "ECE 220",
+      "CS 233"
+    ]
+  },
+  {
+    "index": "ECE 395",
+    "name": "Advanced Digital Projects Lab",
+    "prerequisites": "ECE 385.",
+    "courses": [
+      "ECE 385"
+    ]
+  },
+  {
+    "index": "ECE 401",
+    "name": "Signal Processing",
+    "prerequisites": "MATH 220.",
+    "courses": [
+      "MATH 220"
+    ]
+  },
+  {
+    "index": "ECE 402",
+    "name": "Electronic Music Synthesis",
+    "prerequisites": "ECE 310.",
+    "courses": [
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 403",
+    "name": "Audio Engineering",
+    "prerequisites": "ECE 210 and ECE 310.",
+    "courses": [
+      "ECE 210",
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 407",
+    "name": "Cryptography",
+    "prerequisites": "CS 225.",
+    "courses": [
+      "CS 225"
+    ]
+  },
+  {
+    "index": "ECE 408",
+    "name": "Applied Parallel Programming",
+    "prerequisites": "ECE 220.",
+    "courses": [
+      "ECE 220"
+    ]
+  },
+  {
+    "index": "ECE 411",
+    "name": "Computer Organization & Design",
+    "prerequisites": "ECE 385 and either ECE 391 or CS 341.",
+    "courses": [
+      "ECE 385",
+      "ECE 391",
+      "CS 341"
+    ]
+  },
+  {
+    "index": "ECE 416",
+    "name": "Biosensors",
+    "prerequisites": "ECE 329.",
+    "courses": [
+      "ECE 329"
+    ]
+  },
+  {
+    "index": "ECE 417",
+    "name": "Multimedia Signal Processing",
+    "prerequisites": "ECE 310 or ECE 401; one of ECE 313, CS361, or STAT 400.",
+    "courses": [
+      "ECE 310",
+      "ECE 401",
+      "ECE 313",
+      "CS 361",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "ECE 420",
+    "name": "Embedded DSP Laboratory",
+    "prerequisites": "ECE 310.",
+    "courses": [
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 425",
+    "name": "Intro to VLSI System Design",
+    "prerequisites": "ECE 385 or CS 233.",
+    "courses": [
+      "ECE 385",
+      "CS 233"
+    ]
+  },
+  {
+    "index": "ECE 431",
+    "name": "Electric Machinery",
+    "prerequisites": "ECE 330.",
+    "courses": [
+      "ECE 330"
+    ]
+  },
+  {
+    "index": "ECE 434",
+    "name": "Real World Algorithms for IoT and Data Science",
+    "prerequisites": "ECE 391, CS 241, CS 341 or ECE 310.",
+    "courses": [
+      "ECE 391",
+      "CS 241",
+      "CS 341",
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 437",
+    "name": "Sensors and Instrumentation",
+    "prerequisites": "ECE 329.",
+    "courses": [
+      "ECE 329"
+    ]
+  },
+  {
+    "index": "ECE 439",
+    "name": "Wireless Networks",
+    "prerequisites": "ECE 391; CS 241 or CS 341; one of MATH 461, MATH 463, ECE 313.",
+    "courses": [
+      "ECE 391",
+      "CS 241",
+      "CS 341",
+      "MATH 461",
+      "MATH 463",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 441",
+    "name": "Physcs & Modeling Semicond Dev",
+    "prerequisites": "ECE 340.",
+    "courses": [
+      "ECE 340"
+    ]
+  },
+  {
+    "index": "ECE 442",
+    "name": "Silicon Photonics",
+    "prerequisites": "ECE 350.",
+    "courses": [
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 443",
+    "name": "LEDs and Solar Cells",
+    "prerequisites": "ECE 340.",
+    "courses": [
+      "ECE 340"
+    ]
+  },
+  {
+    "index": "ECE 444",
+    "name": "IC Device Theory & Fabrication",
+    "prerequisites": "ECE 340.",
+    "courses": [
+      "ECE 340"
+    ]
+  },
+  {
+    "index": "ECE 446",
+    "name": "Principles of Experimental Research in Electrical Engineering",
+    "prerequisites": "ECE 313.",
+    "courses": [
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 447",
+    "name": "Active Microwave Ckt Design",
+    "prerequisites": "ECE 350 and ECE 453.",
+    "courses": [
+      "ECE 350",
+      "ECE 453"
+    ]
+  },
+  {
+    "index": "ECE 451",
+    "name": "Adv Microwave Measurements",
+    "prerequisites": "ECE 350.",
+    "courses": [
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 452",
+    "name": "Electromagnetic Fields",
+    "prerequisites": "ECE 350.",
+    "courses": [
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 454",
+    "name": "Antennas",
+    "prerequisites": "ECE 350.",
+    "courses": [
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 455",
+    "name": "Optical Electronics",
+    "prerequisites": "ECE 350 or PHYS 436.",
+    "courses": [
+      "ECE 350",
+      "PHYS 436"
+    ]
+  },
+  {
+    "index": "ECE 456",
+    "name": "Global Nav Satellite Systems",
+    "prerequisites": "ECE 329 and ECE 310 or AE 352 and AE 353.",
+    "courses": [
+      "ECE 329",
+      "ECE 310",
+      "AE 352",
+      "AE 353"
+    ]
+  },
+  {
+    "index": "ECE 457",
+    "name": "Microwave Devices & Circuits",
+    "prerequisites": "ECE 340 and ECE 350.",
+    "courses": [
+      "ECE 340",
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 458",
+    "name": "Applic of Radio Wave Propag",
+    "prerequisites": "ECE 350.",
+    "courses": [
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 459",
+    "name": "Communications Systems",
+    "prerequisites": "ECE 313.",
+    "courses": [
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 461",
+    "name": "Digital Communications",
+    "prerequisites": "ECE 210 and ECE 313.",
+    "courses": [
+      "ECE 210",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 462",
+    "name": "Logic Synthesis",
+    "prerequisites": "ECE 220 or CS 233.",
+    "courses": [
+      "ECE 220",
+      "CS 233"
+    ]
+  },
+  {
+    "index": "ECE 463",
+    "name": "Digital Communications Lab",
+    "prerequisites": "ECE 361 or ECE 459.",
+    "courses": [
+      "ECE 361",
+      "ECE 459"
+    ]
+  },
+  {
+    "index": "ECE 464",
+    "name": "Power Electronics",
+    "prerequisites": "ECE 342.",
+    "courses": [
+      "ECE 342"
+    ]
+  },
+  {
+    "index": "ECE 467",
+    "name": "Biophotonics",
+    "prerequisites": "One of ECE 455, ECE 460, PHYS 402.",
+    "courses": [
+      "ECE 455",
+      "ECE 460",
+      "PHYS 402"
+    ]
+  },
+  {
+    "index": "ECE 468",
+    "name": "Optical Remote Sensing",
+    "prerequisites": "ECE 329, ECE 313.",
+    "courses": [
+      "ECE 329",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 470",
+    "name": "Introduction to Robotics",
+    "prerequisites": "One of MATH 225, MATH 257, MATH 418.",
+    "courses": [
+      "MATH 225",
+      "MATH 257",
+      "MATH 418"
+    ]
+  },
+  {
+    "index": "ECE 472",
+    "name": "Biomedical Ultrasound Imaging",
+    "prerequisites": "ECE 329.",
+    "courses": [
+      "ECE 329"
+    ]
+  },
+  {
+    "index": "ECE 473",
+    "name": "Fund of Engrg Acoustics",
+    "prerequisites": "MATH 285 or MATH 286.",
+    "courses": [
+      "MATH 285",
+      "MATH 286"
+    ]
+  },
+  {
+    "index": "ECE 476",
+    "name": "Power System Analysis",
+    "prerequisites": "ECE 330.",
+    "courses": [
+      "ECE 330"
+    ]
+  },
+  {
+    "index": "ECE 479",
+    "name": "IoT and Cognitive Computing",
+    "prerequisites": "ECE 220 or CS 225.",
+    "courses": [
+      "ECE 220",
+      "CS 225"
+    ]
+  },
+  {
+    "index": "ECE 481",
+    "name": "Nanotechnology",
+    "prerequisites": "One of CHEM 442, CHBE 457, ME 485, MSE 401, PHYS 460.",
+    "courses": [
+      "CHEM 442",
+      "CHBE 457",
+      "ME 485",
+      "MSE 401",
+      "PHYS 460"
+    ]
+  },
+  {
+    "index": "ECE 482",
+    "name": "Digital IC Design",
+    "prerequisites": "ECE 342.",
+    "courses": [
+      "ECE 342"
+    ]
+  },
+  {
+    "index": "ECE 483",
+    "name": "Analog IC Design",
+    "prerequisites": "ECE 342.",
+    "courses": [
+      "ECE 342"
+    ]
+  },
+  {
+    "index": "ECE 486",
+    "name": "Control Systems",
+    "prerequisites": "ECE 210.",
+    "courses": [
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 487",
+    "name": "Intro Quantum Electr for EEs",
+    "prerequisites": "PHYS 485.",
+    "courses": [
+      "PHYS 485"
+    ]
+  },
+  {
+    "index": "ECE 488",
+    "name": "Compound Semicond & Devices",
+    "prerequisites": "ECE 340 and ECE 350.",
+    "courses": [
+      "ECE 340",
+      "ECE 350"
+    ]
+  },
+  {
+    "index": "ECE 490",
+    "name": "Introduction to Optimization",
+    "prerequisites": "ECE 220 and MATH 257.",
+    "courses": [
+      "ECE 220",
+      "MATH 257"
+    ]
+  },
+  {
+    "index": "ECE 508",
+    "name": "Manycore Parallel Algorithms",
+    "prerequisites": "ECE 408 or CS 420.",
+    "courses": [
+      "ECE 408",
+      "CS 420"
+    ]
+  },
+  {
+    "index": "ECE 511",
+    "name": "Computer Architecture",
+    "prerequisites": "ECE 411 or CS 433.",
+    "courses": [
+      "ECE 411",
+      "CS 433"
+    ]
+  },
+  {
+    "index": "ECE 512",
+    "name": "Computer Microarchitecture",
+    "prerequisites": "ECE 511 and CS 426.",
+    "courses": [
+      "ECE 511",
+      "CS 426"
+    ]
+  },
+  {
+    "index": "ECE 513",
+    "name": "Vector Space Signal Processing",
+    "prerequisites": "ECE 310, ECE 313, and MATH 415.",
+    "courses": [
+      "ECE 310",
+      "ECE 313",
+      "MATH 415"
+    ]
+  },
+  {
+    "index": "ECE 514",
+    "name": "Advanced Biosensors",
+    "prerequisites": "ECE 416.",
+    "courses": [
+      "ECE 416"
+    ]
+  },
+  {
+    "index": "ECE 515",
+    "name": "Control System Theory & Design",
+    "prerequisites": "ECE 486.",
+    "courses": [
+      "ECE 486"
+    ]
+  },
+  {
+    "index": "ECE 517",
+    "name": "Nonlinear & Adaptive Control",
+    "prerequisites": "ECE 515.",
+    "courses": [
+      "ECE 515"
+    ]
+  },
+  {
+    "index": "ECE 518",
+    "name": "Adv Semiconductor Nanotech",
+    "prerequisites": "ECE 340, ECE 444, and ECE 481.",
+    "courses": [
+      "ECE 340",
+      "ECE 444",
+      "ECE 481"
+    ]
+  },
+  {
+    "index": "ECE 526",
+    "name": "Distributed Algorithms",
+    "prerequisites": "One of CS 473, ECE 428, ECE 438.",
+    "courses": [
+      "CS 473",
+      "ECE 428",
+      "ECE 438"
+    ]
+  },
+  {
+    "index": "ECE 527",
+    "name": "System-On-Chip Design",
+    "prerequisites": "ECE 391 and ECE 425.",
+    "courses": [
+      "ECE 391",
+      "ECE 425"
+    ]
+  },
+  {
+    "index": "ECE 528",
+    "name": "Analysis of Nonlinear Systems",
+    "prerequisites": "ECE 515 and MATH 444 or MATH 447.",
+    "courses": [
+      "ECE 515",
+      "MATH 444",
+      "MATH 447"
+    ]
+  },
+  {
+    "index": "ECE 530",
+    "name": "Large-Scale System Analysis",
+    "prerequisites": "ECE 464 and ECE 476.",
+    "courses": [
+      "ECE 464",
+      "ECE 476"
+    ]
+  },
+  {
+    "index": "ECE 534",
+    "name": "Random Processes",
+    "prerequisites": "One of ECE 313, MATH 461, STAT 400.",
+    "courses": [
+      "ECE 313",
+      "MATH 461",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "ECE 537",
+    "name": "Speech Processing Fundamentals",
+    "prerequisites": "ECE 310.",
+    "courses": [
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 539",
+    "name": "Adv Theory Semicond & Devices",
+    "prerequisites": "ECE 535.",
+    "courses": [
+      "ECE 535"
+    ]
+  },
+  {
+    "index": "ECE 541",
+    "name": "Computer Systems Analysis",
+    "prerequisites": "One of ECE 313, MATH 461, MATH 463.",
+    "courses": [
+      "ECE 313",
+      "MATH 461",
+      "MATH 463"
+    ]
+  },
+  {
+    "index": "ECE 542",
+    "name": "Fault-Tolerant Dig Syst Design",
+    "prerequisites": "ECE 411.",
+    "courses": [
+      "ECE 411"
+    ]
+  },
+  {
+    "index": "ECE 545",
+    "name": "Advanced Physical Acoustics",
+    "prerequisites": "One of ECE 473, ECE 520, TAM 518.",
+    "courses": [
+      "ECE 473",
+      "ECE 520",
+      "TAM 518"
+    ]
+  },
+  {
+    "index": "ECE 546",
+    "name": "Advanced Signal Integrity",
+    "prerequisites": "ECE 520.",
+    "courses": [
+      "ECE 520"
+    ]
+  },
+  {
+    "index": "ECE 547",
+    "name": "Topics in Image Processing",
+    "prerequisites": "ECE 310 and ECE 313.",
+    "courses": [
+      "ECE 310",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 549",
+    "name": "Computer Vision",
+    "prerequisites": "ECE 448 or CS 225.",
+    "courses": [
+      "ECE 448",
+      "CS 225"
+    ]
+  },
+  {
+    "index": "ECE 551",
+    "name": "Digital Signal Processing II",
+    "prerequisites": "ECE 310 and ECE 313.",
+    "courses": [
+      "ECE 310",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 552",
+    "name": "Numerical Circuit Analysis",
+    "prerequisites": "MATH 415 and ECE 210.",
+    "courses": [
+      "MATH 415",
+      "ECE 210"
+    ]
+  },
+  {
+    "index": "ECE 553",
+    "name": "Optimum Control Systems",
+    "prerequisites": "ECE 313 and ECE 515.",
+    "courses": [
+      "ECE 313",
+      "ECE 515"
+    ]
+  },
+  {
+    "index": "ECE 555",
+    "name": "Control of Stochastic Systems",
+    "prerequisites": "ECE 515 and ECE 534.",
+    "courses": [
+      "ECE 515",
+      "ECE 534"
+    ]
+  },
+  {
+    "index": "ECE 556",
+    "name": "Coding Theory",
+    "prerequisites": "MATH 417.",
+    "courses": [
+      "MATH 417"
+    ]
+  },
+  {
+    "index": "ECE 558",
+    "name": "Digital Imaging",
+    "prerequisites": "ECE 310 and ECE 313.",
+    "courses": [
+      "ECE 310",
+      "ECE 313"
+    ]
+  },
+  {
+    "index": "ECE 560",
+    "name": "VLSI in DSP & Communication",
+    "prerequisites": "ECE 310.",
+    "courses": [
+      "ECE 310"
+    ]
+  },
+  {
+    "index": "ECE 561",
+    "name": "Statistical Inference for Engineers and Data Scientists",
+    "prerequisites": "ECE 534.",
+    "courses": [
+      "ECE 534"
+    ]
+  },
+  {
+    "index": "ECE 562",
+    "name": "Advanced Digital Communication",
+    "prerequisites": "ECE 461 or ECE 459.",
+    "courses": [
+      "ECE 461",
+      "ECE 459"
+    ]
+  },
+  {
+    "index": "ECE 563",
+    "name": "Information Theory",
+    "prerequisites": "One of ECE 534, MATH 464, MATH 564.",
+    "courses": [
+      "ECE 534",
+      "MATH 464",
+      "MATH 564"
+    ]
+  },
+  {
+    "index": "ECE 564",
+    "name": "Modern Light Microscopy",
+    "prerequisites": "One of ECE 460, MSE 405, PHYS 402.",
+    "courses": [
+      "ECE 460",
+      "MSE 405",
+      "PHYS 402"
+    ]
+  },
+  {
+    "index": "ECE 566",
+    "name": "Computational Inference and Learning",
+    "prerequisites": "ECE 490, ECE 534.",
+    "courses": [
+      "ECE 490",
+      "ECE 534"
+    ]
+  },
+  {
+    "index": "ECE 567",
+    "name": "Communication Network Analysis",
+    "prerequisites": "CS 438; one of ECE 534, MATH 464, MATH 564.",
+    "courses": [
+      "CS 438",
+      "ECE 534",
+      "MATH 464",
+      "MATH 564"
+    ]
+  },
+  {
+    "index": "ECE 568",
+    "name": "Model & Cntrl Electromech Syst",
+    "prerequisites": "ECE 431 and ECE 515.",
+    "courses": [
+      "ECE 431",
+      "ECE 515"
+    ]
+  },
+  {
+    "index": "ECE 569",
+    "name": "Inverse Problems in Optics",
+    "prerequisites": "ECE 460.",
+    "courses": [
+      "ECE 460"
+    ]
+  },
+  {
+    "index": "ECE 570",
+    "name": "Nonlinear Optics",
+    "prerequisites": "ECE 520.",
+    "courses": [
+      "ECE 520"
+    ]
+  },
+  {
+    "index": "ECE 571",
+    "name": "EM Waves in Inhomogen Media",
+    "prerequisites": "MATH 446; ECE 520 or PHYS 505.",
+    "courses": [
+      "MATH 446",
+      "ECE 520",
+      "PHYS 505"
+    ]
+  },
+  {
+    "index": "ECE 574",
+    "name": "Nanophotonics",
+    "prerequisites": "ECE 455 or ECE 572; ECE 487 or PHYS 486.",
+    "courses": [
+      "ECE 455",
+      "ECE 572",
+      "ECE 487",
+      "PHYS 486"
+    ]
+  },
+  {
+    "index": "ECE 577",
+    "name": "Advanced Antenna Theory",
+    "prerequisites": "ECE 520.",
+    "courses": [
+      "ECE 520"
+    ]
+  },
+  {
+    "index": "ECE 580",
+    "name": "Optimiz by Vector Space Methds",
+    "prerequisites": "MATH 415 or MATH 482; MATH 447.",
+    "courses": [
+      "MATH 415",
+      "MATH 482",
+      "MATH 447"
+    ]
+  },
+  {
+    "index": "ECE 581",
+    "name": "Advanced Analog IC Design",
+    "prerequisites": "ECE 310 and ECE 483.",
+    "courses": [
+      "ECE 310",
+      "ECE 483"
+    ]
+  },
+  {
+    "index": "ECE 582",
+    "name": "Physical VLSI Design",
+    "prerequisites": "ECE 425 or ECE 482.",
+    "courses": [
+      "ECE 425",
+      "ECE 482"
+    ]
+  },
+  {
+    "index": "ECON 203",
+    "name": "Economic Statistics II",
+    "prerequisites": "ECON 202; one of MATH 220, MATH 221, or MATH 234.",
+    "courses": [
+      "ECON 202",
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ECON 303",
+    "name": "Inter Macroeconomic Theory",
+    "prerequisites": "ECON 102; ECON 103; and one of MATH 220, MATH 221, MATH 234.",
+    "courses": [
+      "ECON 102",
+      "ECON 103",
+      "MATH 220",
+      "MATH 221",
+      "MATH 234"
+    ]
+  },
+  {
+    "index": "ECON 414",
+    "name": "Urban Economics",
+    "prerequisites": "ECON 302.",
+    "courses": [
+      "ECON 302"
+    ]
+  },
+  {
+    "index": "ECON 480",
+    "name": "Industrial Comp and Monopoly",
+    "prerequisites": "ECON 302.",
+    "courses": [
+      "ECON 302"
+    ]
+  },
+  {
+    "index": "ECON 534",
+    "name": "Macroeconomic Theory II",
+    "prerequisites": "ECON 531.",
+    "courses": [
+      "ECON 531"
+    ]
+  },
+  {
+    "index": "ECON 536",
+    "name": "Applied Econometrics",
+    "prerequisites": "ECON 532 and ECON 535.",
+    "courses": [
+      "ECON 532",
+      "ECON 535"
+    ]
+  },
+  {
+    "index": "ECON 540",
+    "name": "Labor Economics I",
+    "prerequisites": "ECON 302 and ECON 303.",
+    "courses": [
+      "ECON 302",
+      "ECON 303"
+    ]
+  },
+  {
+    "index": "ECON 541",
+    "name": "Labor Economics II",
+    "prerequisites": "ECON 302 and ECON 303.",
+    "courses": [
+      "ECON 302",
+      "ECON 303"
+    ]
+  },
+  {
+    "index": "ECON 547",
+    "name": "Urban Economics",
+    "prerequisites": "ECON 530 and ECON 533.",
+    "courses": [
+      "ECON 530",
+      "ECON 533"
+    ]
+  },
+  {
+    "index": "ECON 574",
+    "name": "Econometrics I",
+    "prerequisites": "MATH 415 and STAT 400.",
+    "courses": [
+      "MATH 415",
+      "STAT 400"
+    ]
+  },
+  {
+    "index": "ECON 575",
+    "name": "Econometrics II",
+    "prerequisites": "ECON 574.",
+    "courses": [
+      "ECON 574"
+    ]
+  },
+  {
+    "index": "ECON 577",
+    "name": "Topics in Econometrics",
+    "prerequisites": "ECON 574.",
+    "courses": [
+      "ECON 574"
+    ]
+  },
+  {
+    "index": "EPSY 236",
+    "name": "Child Development in Education",
+    "prerequisites": "PSYC 100.",
+    "courses": [
+      "PSYC 100"
+    ]
+  },
+  {
+    "index": "EPSY 280",
+    "name": "Elements of Statistics",
+    "prerequisites": "MATH 112.",
+    "courses": [
+      "MATH 112"
+    ]
+  },
+  {
+    "index": "EPSY 403",
+    "name": "Research Methods in Learning Sciences",
+    "prerequisites": "EPSY 280 or EPSY 480 or PSYC 235 or PSYC 301.",
+    "courses": [
+      "EPSY 280",
+      "EPSY 480",
+      "PSYC 235",
+      "PSYC 301"
+    ]
+  },
+  {
+    "index": "EPSY 471",
+    "name": "Introduction to Evaluation Methods",
+    "prerequisites": "EPSY 480.",
+    "courses": [
+      "EPSY 480"
+    ]
+  },
+  {
+    "index": "EPSY 486",
+    "name": "Principles of Measurement",
+    "prerequisites": "EPSY 201 or EPSY 236.",
+    "courses": [
+      "EPSY 201",
+      "EPSY 236"
+    ]
+  },
+  {
+    "index": "EPSY 586",
+    "name": "Theories of Measurement II",
+    "prerequisites": "EPSY 585 or PSYC 490.",
+    "courses": [
+      "EPSY 585",
+      "PSYC 490"
+    ]
+  },
+  {
+    "index": "EPSY 587",
+    "name": "Hierarchical Linear Models",
+    "prerequisites": "EPSY 581 and EPSY 582, or PSYC 406 and PSYC 407.",
+    "courses": [
+      "EPSY 581",
+      "EPSY 582",
+      "PSYC 406",
+      "PSYC 407"
+    ]
+  },
+  {
+    "index": "EPSY 589",
+    "name": "Categorical Data Analysis in Educational Psychology",
+    "prerequisites": "EPSY 581 or PSYC 507.",
+    "courses": [
+      "EPSY 581",
+      "PSYC 507"
+    ]
+  },
+  {
+    "index": "ERAM 560",
+    "name": "Quantitative Policy Analysis",
+    "prerequisites": "EPSY 580.",
+    "courses": [
+      "EPSY 580"
+    ]
+  },
+  {
+    "index": "ETMA 234",
+    "name": "Wiring, Motors and Control Sys",
+    "prerequisites": "ETMA 100.",
+    "courses": [
+      "ETMA 100"
+    ]
+  },
+  {
+    "index": "EURO 599",
+    "name": "Thesis Research",
+    "prerequisites": "EURO 501 and EURO 502.",
+    "courses": [
+      "EURO 501",
+      "EURO 502"
+    ]
+  },
+  {
+    "index": "FIN 241",
+    "name": "Fundamentals of Real Estate",
+    "prerequisites": "ECON 102.",
+    "courses": [
+      "ECON 102"
+    ]
+  },
+  {
+    "index": "FIN 300",
+    "name": "Financial Markets",
+    "prerequisites": "FIN 221.",
+    "courses": [
+      "FIN 221"
+    ]
+  },
+  {
+    "index": "FIN 321",
+    "name": "Advanced Corporate Finance",
+    "prerequisites": "FIN 300.",
+    "courses": [
+      "FIN 300"
+    ]
+  },
+  {
+    "index": "FIN 411",
+    "name": "Investment & Portfolio Mngt",
+    "prerequisites": "FIN 300.",
+    "courses": [
+      "FIN 300"
+    ]
+  },
+  {
+    "index": "FIN 415",
+    "name": "Fixed Income Portfolios",
+    "prerequisites": "FIN 321.",
+    "courses": [
+      "FIN 321"
+    ]
+  },
+  {
+    "index": "FIN 422",
+    "name": "Cases in Corporate Finance",
+    "prerequisites": "FIN 300 and FIN 321.",
+    "courses": [
+      "FIN 300",
+      "FIN 321"
+    ]
+  },
+  {
+    "index": "FIN 424",
+    "name": "Mergers and Acquisition",
+    "prerequisites": "FIN 321.",
+    "courses": [
+      "FIN 321"
+    ]
+  },
+  {
+    "index": "FIN 425",
+    "name": "Private Equity/Venture Capital",
+    "prerequisites": "FIN 321.",
+    "courses": [
+      "FIN 321"
+    ]
+  },
+  {
+    "index": "FIN 431",
+    "name": "Property-Liability Insurance",
+    "prerequisites": "FIN 230.",
+    "courses": [
+      "FIN 230"
+    ]
+  },
+  {
+    "index": "FIN 432",
+    "name": "Managing Market Risks for Financial Institutions",
+    "prerequisites": "FIN 300.",
+    "courses": [
+      "FIN 300"
+    ]
+  },
+  {
+    "index": "FIN 433",
+    "name": "Corporate Risk Management",
+    "prerequisites": "FIN 221, FIN 431, and FIN 434.",
+    "courses": [
+      "FIN 221",
+      "FIN 431",
+      "FIN 434"
+    ]
+  },
+  {
+    "index": "FIN 435",
+    "name": "Personal Wealth Management",
+    "prerequisites": "FIN 300.",
+    "courses": [
+      "FIN 300"
+    ]
+  },
+  {
+    "index": "FIN 447",
+    "name": "Real Estate Development",
+    "prerequisites": "FIN 221 or FIN 241.",
+    "courses": [
+      "FIN 221",
+      "FIN 241"
+    ]
+  },
+  {
+    "index": "FIN 517",
+    "name": "Advanced Term Structure Models",
+    "prerequisites": "FIN 516.",
+    "courses": [
+      "FIN 516"
+    ]
+  },
+  {
+    "index": "FIN 552",
+    "name": "Applied Financial Econometrics",
+    "prerequisites": "FIN 511.",
+    "courses": [
+      "FIN 511"
+    ]
+  },
+  {
+    "index": "FIN 593",
+    "name": "Seminar in Investments",
+    "prerequisites": "FIN 591 and ECON 507.",
+    "courses": [
+      "FIN 591",
+      "ECON 507"
+    ]
+  },
+  {
+    "index": "FIN 594",
+    "name": "Seminar in Corporate Finance",
+    "prerequisites": "FIN 591 and ECON 507.",
+    "courses": [
+      "FIN 591",
+      "ECON 507"
+    ]
+  },
+  {
+    "index": "FR 212",
+    "name": "Introduction to Cultural Analysis: French Identities",
+    "prerequisites": "FR 207.",
+    "courses": [
+      "FR 207"
+    ]
+  },
+  {
+    "index": "FR 301",
+    "name": "Medieval and Early Modern Literature",
+    "prerequisites": "FR 211 and FR 212.",
+    "courses": [
+      "FR 211",
+      "FR 212"
+    ]
+  },
+  {
+    "index": "FR 314",
+    "name": "Advanced Grammar and Writing",
+    "prerequisites": "FR 207.",
+    "courses": [
+      "FR 207"
+    ]
+  },
+  {
+    "index": "FR 335",
+    "name": "French Cultural History to 1789",
+    "prerequisites": "FR 211 and FR 212.",
+    "courses": [
+      "FR 211",
+      "FR 212"
+    ]
+  },
+  {
+    "index": "FR 336",
+    "name": "French Cultural History 1789-1968",
+    "prerequisites": "FR 211 and FR 212.",
+    "courses": [
+      "FR 211",
+      "FR 212"
+    ]
+  },
+  {
+    "index": "FR 337",
+    "name": "Contemporary France",
+    "prerequisites": "FR 207, FR 211, FR 212.",
+    "courses": [
+      "FR 207",
+      "FR 211",
+      "FR 212"
+    ]
+  },
+  {
+    "index": "FSHN 232",
+    "name": "Science of Food Preparation",
+    "prerequisites": "FSHN 101.",
+    "courses": [
+      "FSHN 101"
+    ]
+  },
+  {
+    "index": "FSHN 251",
+    "name": "Nutritional Physiology II",
+    "prerequisites": "FSHN 220.",
+    "courses": [
+      "FSHN 220"
+    ]
+  },
+  {
+    "index": "FSHN 414",
+    "name": "Food Chemistry",
+    "prerequisites": "CHEM 232.",
+    "courses": [
+      "CHEM 232"
+    ]
+  },
+  {
+    "index": "FSHN 426",
+    "name": "Biochemical Nutrition I",
+    "prerequisites": "FSHN 220; or FSHN 120 and FSHN 414.",
+    "courses": [
+      "FSHN 220",
+      "FSHN 120",
+      "FSHN 414"
+    ]
+  },
+  {
+    "index": "FSHN 427",
+    "name": "Biochemical Nutrition II",
+    "prerequisites": "FSHN 220; or FSHN 120 and FSHN 414.",
+    "courses": [
+      "FSHN 220",
+      "FSHN 120",
+      "FSHN 414"
+    ]
+  },
+  {
+    "index": "FSHN 475",
+    "name": "Science of Fermented Foods Lab",
+    "prerequisites": "FSHN 175 or FSHN 471.",
+    "courses": [
+      "FSHN 175",
+      "FSHN 471"
+    ]
+  },
+  {
+    "index": "FSHN 482",
+    "name": "Food Processing Unit Operations I Lab",
+    "prerequisites": "FSHN 481.",
+    "courses": [
+      "FSHN 481"
+    ]
+  },
+  {
+    "index": "FSHN 484",
+    "name": "Food Processing Unit Operations II Lab",
+    "prerequisites": "FSHN 483.",
+    "courses": [
+      "FSHN 483"
+    ]
+  },
+  {
+    "index": "FSHN 552",
+    "name": "Advanced Diabetes Management",
+    "prerequisites": "FSHN 420.",
+    "courses": [
+      "FSHN 420"
+    ]
+  },
+  {
+    "index": "FSHN 574",
+    "name": "Value Added Biotransformation",
+    "prerequisites": "FSHN 471.",
+    "courses": [
+      "FSHN 471"
+    ]
+  },
+  {
+    "index": "FSHN 576",
+    "name": "Food Safety for Global Food Security",
+    "prerequisites": "FSHN 471 or FSHN 573.",
+    "courses": [
+      "FSHN 471",
+      "FSHN 573"
+    ]
+  },
+  {
+    "index": "FSHN 591",
+    "name": "Dietetic Internship II",
+    "prerequisites": "FSHN 590.",
+    "courses": [
+      "FSHN 590"
+    ]
+  },
+  {
+    "index": "GEOL 432",
+    "name": "Mineralogy and Mineral Optics",
+    "prerequisites": "GEOL 208 and CHEM 104 and CHEM 105.",
+    "courses": [
+      "GEOL 208",
+      "CHEM 104",
+      "CHEM 105"
+    ]
+  },
+  {
+    "index": "GEOL 436",
+    "name": "Petrology and Petrography",
+    "prerequisites": "GEOL 432.",
+    "courses": [
+      "GEOL 432"
+    ]
+  },
+  {
+    "index": "GEOL 506",
+    "name": "Landscape Evolution Models",
+    "prerequisites": "GEOL 401 and MATH 285.",
+    "courses": [
+      "GEOL 401",
+      "MATH 285"
+    ]
+  },
+  {
+    "index": "GER 530",
+    "name": "Old High German",
+    "prerequisites": "GER 465.",
+    "courses": [
+      "GER 465"
+    ]
+  },
+  {
+    "index": "GLBL 340",
+    "name": "Global Health: Policy & Governance",
+    "prerequisites": "GLBL 240.",
+    "courses": [
+      "GLBL 240"
+    ]
+  },
+  {
+    "index": "GLBL 494",
+    "name": "Research Methods I",
+    "prerequisites": "GLBL 200.",
+    "courses": [
+      "GLBL 200"
+    ]
+  },
+  {
+    "index": "GLBL 495",
+    "name": "Research Methods II",
+    "prerequisites": "GLBL 494.",
+    "courses": [
+      "GLBL 494"
+    ]
+  },
+  {
+    "index": "GRK 102",
+    "name": "Elementary Greek II",
+    "prerequisites": "GRK 101.",
+    "courses": [
+      "GRK 101"
+    ]
+  },
+  {
+    "index": "GRK 201",
+    "name": "Classical & Koine Greek I",
+    "prerequisites": "GRK 102.",
+    "courses": [
+      "GRK 102"
+    ]
+  },
+  {
+    "index": "GRKM 202",
+    "name": "Elementary Modern Greek II",
+    "prerequisites": "GRKM 201.",
+    "courses": [
+      "GRKM 201"
+    ]
+  },
+  {
+    "index": "GSD 512",
+    "name": "Game Development II",
+    "prerequisites": "GSD 511.",
+    "courses": [
+      "GSD 511"
+    ]
+  },
+  {
+    "index": "GSD 513",
+    "name": "Practicum in Game Development I",
+    "prerequisites": "GSD 511 and GSD 512.",
+    "courses": [
+      "GSD 511",
+      "GSD 512"
+    ]
+  },
+  {
+    "index": "HDFS 208",
+    "name": "Child and Family Inclusion: Disability, Health, and Diversity",
+    "prerequisites": "HDFS 105.",
+    "courses": [
+      "HDFS 105"
+    ]
+  },
+  {
+    "index": "HDFS 301",
+    "name": "Infancy & Early Childhood",
+    "prerequisites": "HDFS 105 or PSYC 216.",
+    "courses": [
+      "HDFS 105",
+      "PSYC 216"
+    ]
+  },
+  {
+    "index": "HDFS 305",
+    "name": "Middle Childhood",
+    "prerequisites": "HDFS 105.",
+    "courses": [
+      "HDFS 105"
+    ]
+  },
+  {
+    "index": "HDFS 340",
+    "name": "Gender, Relationshps & Society",
+    "prerequisites": "HDFS 105 or SOC 100.",
+    "courses": [
+      "HDFS 105",
+      "SOC 100"
+    ]
+  },
+  {
+    "index": "HDFS 401",
+    "name": "Socialization and Development",
+    "prerequisites": "HDFS 301 and HDFS 290.",
+    "courses": [
+      "HDFS 301",
+      "HDFS 290"
+    ]
+  },
+  {
+    "index": "HDFS 405",
+    "name": "Adolescent Development",
+    "prerequisites": "HDFS 105 or PSYC 100.",
+    "courses": [
+      "HDFS 105",
+      "PSYC 100"
+    ]
+  },
+  {
+    "index": "HDFS 420",
+    "name": "Inequality, Public Policy, and U.S. Families",
+    "prerequisites": "HDFS 120.",
+    "courses": [
+      "HDFS 120"
+    ]
+  },
+  {
+    "index": "HDFS 425",
+    "name": "Family Stress and Change",
+    "prerequisites": "HDFS 120.",
+    "courses": [
+      "HDFS 120"
+    ]
+  },
+  {
+    "index": "HDFS 426",
+    "name": "Family Conflict Management",
+    "prerequisites": "HDFS 120.",
+    "courses": [
+      "HDFS 120"
+    ]
+  },
+  {
+    "index": "HDFS 503",
+    "name": "Social-Emotional Development",
+    "prerequisites": "HDFS 501.",
+    "courses": [
+      "HDFS 501"
+    ]
+  },
+  {
+    "index": "HNDI 202",
+    "name": "Elementary Hindi-Urdu II",
+    "prerequisites": "HNDI 201.",
+    "courses": [
+      "HNDI 201"
+    ]
+  },
+  {
+    "index": "HORT 240",
+    "name": "Plant Propagation",
+    "prerequisites": "IB 103.",
+    "courses": [
+      "IB 103"
+    ]
+  },
+  {
+    "index": "HORT 341",
+    "name": "Greenhouse Mgmt and Production",
+    "prerequisites": "NRES 201 and HORT 100.",
+    "courses": [
+      "NRES 201",
+      "HORT 100"
+    ]
+  },
+  {
+    "index": "HORT 344",
+    "name": "Planting for Biodiversity and Aesthetics",
+    "prerequisites": "IB 103.",
+    "courses": [
+      "IB 103"
+    ]
+  },
+  {
+    "index": "HORT 361",
+    "name": "Small Fruit Production",
+    "prerequisites": "HORT 100 or IB 103.",
+    "courses": [
+      "HORT 100",
+      "IB 103"
+    ]
+  },
+  {
+    "index": "HORT 362",
+    "name": "Tree Fruit Production",
+    "prerequisites": "HORT 100 or IB 103.",
+    "courses": [
+      "HORT 100",
+      "IB 103"
+    ]
+  },
+  {
+    "index": "HORT 363",
+    "name": "Postharvest Handling Hort Crop",
+    "prerequisites": "HORT 100, CHEM 102, CHEM 103, IB 103.",
+    "courses": [
+      "HORT 100",
+      "CHEM 102",
+      "CHEM 103",
+      "IB 103"
+    ]
+  },
+  {
+    "index": "HORT 442",
+    "name": "Plant Nutrition",
+    "prerequisites": "NRES 201 and IB 420.",
+    "courses": [
+      "NRES 201",
+      "IB 420"
+    ]
+  },
+  {
+    "index": "HORT 447",
+    "name": "Horticultural Plant Breeding",
+    "prerequisites": "CPSC 352.",
+    "courses": [
+      "CPSC 352"
+    ]
+  },
+  {
+    "index": "IB 202",
+    "name": "Physiology",
+    "prerequisites": "IB 150 and MCB 150.",
+    "courses": [
+      "IB 150",
+      "MCB 150"
+    ]
+  },
+  {
+    "index": "IB 203",
+    "name": "Ecology",
+    "prerequisites": "IB 150 and MCB 150.",
+    "courses": [
+      "IB 150",
+      "MCB 150"
+    ]
+  },
+  {
+    "index": "IB 204",
+    "name": "Genetics",
+    "prerequisites": "IB 150 and MCB 150.",
+    "courses": [
+      "IB 150",
+      "MCB 150"
+    ]
+  },
+  {
+    "index": "IB 303",
+    "name": "Anatomy",
+    "prerequisites": "IB 150.",
+    "courses": [
+      "IB 150"
+    ]
+  },
+  {
+    "index": "IE 300",
+    "name": "Analysis of Data",
+    "prerequisites": "MATH 241.",
+    "courses": [
+      "MATH 241"
+    ]
+  },
+  {
+    "index": "IE 330",
+    "name": "Industrial Quality Control",
+    "prerequisites": "IE 300.",
+    "courses": [
+      "IE 300"
+    ]
+  },
+  {
+    "index": "IE 361",
+    "name": "Production Planning & Control",
+    "prerequisites": "IE 310.",
+    "courses": [
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 370",
+    "name": "Stochastic Processes and Applications",
+    "prerequisites": "IE 300 and IE 310.",
+    "courses": [
+      "IE 300",
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 400",
+    "name": "Design & Anlys of Experiments",
+    "prerequisites": "IE 300.",
+    "courses": [
+      "IE 300"
+    ]
+  },
+  {
+    "index": "IE 410",
+    "name": "Advanced Topics in Stochastic Processes & Applications",
+    "prerequisites": "IE 310.",
+    "courses": [
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 411",
+    "name": "Optimization of Large Systems",
+    "prerequisites": "IE 310 and MATH 257 or MATH 415.",
+    "courses": [
+      "IE 310",
+      "MATH 257",
+      "MATH 415"
+    ]
+  },
+  {
+    "index": "IE 412",
+    "name": "OR Models for Mfg Systems",
+    "prerequisites": "IE 310.",
+    "courses": [
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 413",
+    "name": "Simulation",
+    "prerequisites": "CS 101 and IE 310.",
+    "courses": [
+      "CS 101",
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 420",
+    "name": "Financial Engineering",
+    "prerequisites": "IE 300.",
+    "courses": [
+      "IE 300"
+    ]
+  },
+  {
+    "index": "IE 430",
+    "name": "Economic Found of Quality Syst",
+    "prerequisites": "IE 300.",
+    "courses": [
+      "IE 300"
+    ]
+  },
+  {
+    "index": "IE 431",
+    "name": "Design for Six Sigma",
+    "prerequisites": "IE 300.",
+    "courses": [
+      "IE 300"
+    ]
+  },
+  {
+    "index": "IE 510",
+    "name": "Applied Nonlinear Programming",
+    "prerequisites": "IE 310.",
+    "courses": [
+      "IE 310"
+    ]
+  },
+  {
+    "index": "IE 511",
+    "name": "Integer Programming",
+    "prerequisites": "IE 411 or MATH 482.",
+    "courses": [
+      "IE 411",
+      "MATH 482"
+    ]
+  },
+  {
+    "index": "JAPN 202",
+    "name": "Elementary Japanese II",
+    "prerequisites": "JAPN 201.",
+    "courses": [
+      "JAPN 201"
+    ]
+  }
+]

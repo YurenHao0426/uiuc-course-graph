@@ -1,0 +1,70 @@
+name: Build UIUC Course Dataset
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Catalog year (e.g., 2024)"
+        required: false
+        default: "2024"
+      term:
+        description: "Term (fall|spring|summer|winter)"
+        required: false
+        default: "fall"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch catalog -> data/courses.json
+        run: |
+          mkdir -p data
+          python scripts/fetch_uiuc_courses.py --year "${{ github.event.inputs.year }}" --term "${{ github.event.inputs.term }}" --output data/courses.json
+
+      - name: Analyze prerequisites
+        run: |
+          python scripts/analyze_prereqs.py data/courses.json --outdir data/analysis
+
+      - name: Parse course-only prerequisites
+        run: |
+          mkdir -p data/parsed
+          python scripts/parse_course_prereqs.py data/analysis/course_only.json --output data/parsed/course_only_parsed.json --unparsed-output data/parsed/course_only_unparsed.json
+
+      - name: Build final parsed dataset
+        run: |
+          python scripts/build_final_parsed.py data/courses.json --output data/courses_parsed.json
+
+      - name: Upload raw courses
+        uses: actions/upload-artifact@v4
+        with:
+          name: courses-json
+          path: data/courses.json
+
+      - name: Upload analysis
+        uses: actions/upload-artifact@v4
+        with:
+          name: analysis-json
+          path: data/analysis
+
+      - name: Upload parsed outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: parsed-json
+          path: |
+            data/parsed
+            data/courses_parsed.json
+
+
