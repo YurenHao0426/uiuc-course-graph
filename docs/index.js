@@ -93,20 +93,20 @@ async function loadDataset() {
   // Prefer reduced graph if present
   let graph;
   try {
-    graph = await fetch('../data/graph_reduced.json').then(r => { if (!r.ok) throw new Error('graph_reduced.json'); return r.json(); });
+    graph = await fetch('data/graph_reduced.json').then(r => { if (!r.ok) throw new Error('graph_reduced.json'); return r.json(); });
   } catch (e) {
-    graph = await fetch('../data/graph.json').then(r => { if (!r.ok) throw new Error('graph.json'); return r.json(); });
+    graph = await fetch('data/graph.json').then(r => { if (!r.ok) throw new Error('graph.json'); return r.json(); });
   }
   // Load parsed courses for node details
   let courses = [];
   try {
-    courses = await fetch('../data/courses_parsed.json').then(r => { if (!r.ok) throw new Error('courses_parsed.json'); return r.json(); });
+    courses = await fetch('data/courses_parsed.json').then(r => { if (!r.ok) throw new Error('courses_parsed.json'); return r.json(); });
   } catch (e) {
     console.warn('courses_parsed.json not found; node details limited');
   }
   async function loadPos(name) {
     try {
-      return await fetch(`../data/${name}`).then(r => { if (!r.ok) throw new Error(name); return r.json(); });
+      return await fetch(`data/${name}`).then(r => { if (!r.ok) throw new Error(name); return r.json(); });
     } catch (e) { console.warn(`${name} not found`); return {}; }
   }
   // DEFAULT: DRL precomputed positions; fallback to SMACOF, then disk positions

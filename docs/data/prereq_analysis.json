@@ -1,0 +1,236 @@
+{
+  "total": 4917,
+  "no_prereq_text": 2099,
+  "has_prereq_text": 2818,
+  "majors_only_count": 10,
+  "permission_only_count": 776,
+  "gpa_only_count": 22,
+  "class_standing_count": 293,
+  "credit_hours_count": 7,
+  "grad_or_undergrad_only_count": 100,
+  "other_flags": {
+    "courses_referenced": 1655,
+    "uncategorized": 577
+  },
+  "examples": {
+    "permission": [
+      [
+        "AAS 211",
+        "AAS 100 or AAS 120, or consent of instructor."
+      ],
+      [
+        "AAS 287",
+        "AAS 100 or AAS 120, or consent of instructor."
+      ],
+      [
+        "AAS 365",
+        "Any AAS course at the 100- or 200-level, or consent of instructor."
+      ],
+      [
+        "AAS 490",
+        "AAS 100 or any Asian American Studies course, or consent of instructor."
+      ],
+      [
+        "AAS 589",
+        "Graduate standing or consent of instructor."
+      ]
+    ],
+    "courses_ref": [
+      [
+        "AAS 211",
+        "AAS 100 or AAS 120, or consent of instructor.",
+        [
+          "AAS 100",
+          "AAS 120"
+        ]
+      ],
+      [
+        "AAS 215",
+        "One of: AAS 100, AAS 120, AFRO 100 AIS 101, GWS 250, LLS 100.",
+        [
+          "AAS 100",
+          "AAS 120",
+          "AFRO 100",
+          "AIS 101",
+          "GWS 250",
+          "LLS 100"
+        ]
+      ],
+      [
+        "AAS 287",
+        "AAS 100 or AAS 120, or consent of instructor.",
+        [
+          "AAS 100",
+          "AAS 120"
+        ]
+      ],
+      [
+        "AAS 290",
+        "AAS 100.",
+        [
+          "AAS 100"
+        ]
+      ],
+      [
+        "AAS 315",
+        "AAS 100 or AAS 120, or consent of the instructor.",
+        [
+          "AAS 100",
+          "AAS 120"
+        ]
+      ]
+    ],
+    "standing": [
+      [
+        "AAS 589",
+        "Graduate standing or consent of instructor."
+      ],
+      [
+        "AAS 590",
+        "Graduate standing or consent of instructor."
+      ],
+      [
+        "ABE 426",
+        "MATH 221, MATH 225, and MATH 285, or ABE 415, or ABE 440, IE 300, or STAT 400 or equiv, CS 125 or equiv., or graduate standing."
+      ],
+      [
+        "ACCY 590",
+        "Open only to accountancy majors enrolled in the department's integrated bachelor/master program or students with graduate standing in accountancy; completion of 300-level accountancy courses appropriate to internship learning plan; and consent of department."
+      ],
+      [
+        "AFRO 474",
+        "AFRO 101, HIST 276, or consent of instructor. Junior, Senior, or Graduate standing."
+      ]
+    ],
+    "class_standing": [
+      [
+        "ABE 469",
+        "Current senior standing in an engineering major. Restricted to undergraduate students."
+      ],
+      [
+        "ABE 483",
+        "Restricted to Grainger Engineering Seniors or Graduate students."
+      ],
+      [
+        "ABE 488",
+        "ABE 340 or ME 200 or ChBE 321. Restricted to Junior, Senior or Graduate student status."
+      ],
+      [
+        "ACCY 200",
+        "Sophomore standing."
+      ],
+      [
+        "ACCY 449",
+        "ACCY 312 or ACCY 505 or concurrent enrollment in either or consent of the department. For 1 Credit Hour Section: Restricted to Junior, Senior, or Graduate Accountancy majors. For 2 credit hour section: Restricted to Master of Accounting Science or Master of Science in Accountancy programs."
+      ]
+    ],
+    "uncategorized": [
+      [
+        "ABE 501",
+        "Restricted to ABE or ETMAS programs."
+      ],
+      [
+        "ABE 502",
+        "Restricted to ABE or ETMAS programs."
+      ],
+      [
+        "ABE 503",
+        "Restricted to ABE or ETMAS programs."
+      ],
+      [
+        "ACCY 375",
+        "Restricted to Gies College of Business Accountancy and Accountancy + DS majors and/or intention to declare Accountancy major."
+      ],
+      [
+        "ACCY 398",
+        "Consent of the Department. Intended for students enrolled in the BS in Accountancy, MAS, and MSA programs. Students from other UIUC programs must demonstrate that they have taken courses in financial accounting (beyond introductory level), cost/managerial accounting (beyond introductory level), auditing, and taxation."
+      ],
+      [
+        "ACCY 518",
+        "Enrollment in graduate accounting degree program or consent of the department. This class is restricted to MAS and MSA students: Accountancy-UIUC."
+      ],
+      [
+        "ACCY 555",
+        "Restricted to students enrolled in the MS in Taxation Program."
+      ],
+      [
+        "ACCY 570",
+        "Enrollment in graduate accounting program or consent of the department."
+      ],
+      [
+        "ACCY 571",
+        "Enrollment in graduate accounting program or consent of the department."
+      ],
+      [
+        "ACCY 574",
+        "Enrollment in MAS or MSA program."
+      ]
+    ],
+    "gpa": [
+      [
+        "ACE 293",
+        "Sophomore standing, cumulative GPA of 2. 5 or above at the time the internship is arranged, and consent of instructor."
+      ],
+      [
+        "ACE 294",
+        "Sophomore standing, cumulative GPA of 2. 5 or above at the time the internship is arranged, and consent of instructor."
+      ],
+      [
+        "ACE 295",
+        "Cumulative GPA of 2.5 or above at the time the activity is arranged, and consent of instructor."
+      ],
+      [
+        "ACES 295",
+        "GPA of 3.0 or above at the time the activity is arranged, and consent of instructor."
+      ],
+      [
+        "ANTH 494",
+        "Senior standing; 3.25 GPA in anthropology; and consent of instructor. May not be taken concurrently with ANTH 390."
+      ]
+    ],
+    "majors_only": [
+      [
+        "AGED 420",
+        "AGED 220 for majors; consent of instructor for non-majors."
+      ],
+      [
+        "ARCH 490",
+        "Consent of instructor. For majors only."
+      ],
+      [
+        "CLCV 493",
+        "9 hours of CLCV classes. For majors and minors only."
+      ],
+      [
+        "CS 126",
+        "CS 125. For majors only."
+      ],
+      [
+        "CS 361",
+        "MATH 220 or MATH 221; credit or concurrent registration in one of MATH 225, MATH 257, MATH 415, MATH 416 or ASRM 406. For majors only."
+      ]
+    ],
+    "credit_hours": [
+      [
+        "ANTH 390",
+        "Junior or senior standing; 12 hours in anthropology; consent of instructor. May not be taken concurrently with ANTH 391 or ANTH 495."
+      ],
+      [
+        "ARTD 391",
+        "Junior standing in Art and Design; and consent of instructor, advisor, and associate director of the School. A contract must be completed & approved by the instructor & advisor. 3.3 GPA, & only 6 hours total Ind. Study."
+      ],
+      [
+        "CI 475",
+        "CI 467 and admission to the Elementary Teacher Education Program. Elementary Education students register for 3 hours. Special Education students register for 4 hours."
+      ],
+      [
+        "CLCV 493",
+        "9 hours of CLCV classes. For majors and minors only."
+      ],
+      [
+        "DANC 598",
+        "28 hours of graduate work in dance, including 4 hours in choreography."
+      ]
+    ]
+  }
+}
